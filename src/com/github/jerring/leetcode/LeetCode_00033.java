@@ -1,3 +1,5 @@
+package com.github.jerring.leetcode;
+
 public class LeetCode_00033 {
 
     public int search(int[] nums, int target) {
