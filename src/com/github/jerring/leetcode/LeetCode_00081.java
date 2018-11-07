@@ -24,7 +24,7 @@ public class LeetCode_00081 {
                     hi = mid - 1;
                 }
             } else {                            // 不能判别 lo 和 mid 是否在同一边
-                ++lo;
+                ++lo;                           // 退化到 O(n)
             }
         }
         return false;
