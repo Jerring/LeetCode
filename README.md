@@ -6,6 +6,7 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) |
 | 00081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) |
+| 00153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) |
 
 ## 链表
 
@@ -23,4 +24,3 @@
 | #     | Link                                              | 链接                                                  |
 | ----- | ------------------------------------------------- | ----------------------------------------------------- |
 | 00001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [两数之和](https://leetcode-cn.com/problems/two-sum/) |
-
