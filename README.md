@@ -18,3 +18,9 @@
 | 00234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) |
 | 00237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [删除链表中的结点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) |
 
+## 哈希表
+
+| #     | Link                                              | 链接                                                  |
+| ----- | ------------------------------------------------- | ----------------------------------------------------- |
+| 00001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [两数之和](https://leetcode-cn.com/problems/two-sum/) |
+
