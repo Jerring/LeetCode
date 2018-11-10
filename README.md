@@ -15,6 +15,7 @@
 | 00019 | [Remove Nth Node From End of List](https://leetcode-cn.com/articles/remove-nth-node-from-end-of-list/) | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |
 | 00021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |
 | 00141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) |
+| 00142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |
 | 00160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) |
 | 00203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/) |
 | 00206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) |
