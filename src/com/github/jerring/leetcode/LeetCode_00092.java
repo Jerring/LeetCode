@@ -25,7 +25,7 @@ public class LeetCode_00092 {
         }
         // 此时 pre 指向中间链表反转后的头结点
         leftTail.next = pre;
-        // 此时 cur 指向右边链表的头节点
+        // 此时 cur 指向右边链表的头结点
         midTail.next = cur;
         return dummy.next;
     }
