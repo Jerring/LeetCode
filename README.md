@@ -27,3 +27,10 @@
 | #     | Link                                              | 链接                                                  |
 | ----- | ------------------------------------------------- | ----------------------------------------------------- |
 | 00001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [两数之和](https://leetcode-cn.com/problems/two-sum/) |
+
+## 数组
+
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) |
+
