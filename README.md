@@ -36,6 +36,7 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) |
+| 00042 | [Find All Duplicates in an Arra](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) |
 | 00905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) |
 
 ## 动态规划
