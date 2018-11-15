@@ -37,3 +37,10 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) |
 | 00905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) |
+
+## 动态规划
+
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
+
