@@ -44,4 +44,5 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
+| 00088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |
 
