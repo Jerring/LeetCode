@@ -30,7 +30,7 @@ public class LeetCode_00015 {
                     ++l;
                 } else {
                     res.add(Arrays.asList(nums[i], nums[l++], nums[r--]));
-                    // 两侧的下标向中间移动，直到不与之前取出的数字相同，避免出现重复的三元组
+                    // 两侧的下标向中间移动，直到不与之前取出的数相同，避免出现重复的三元组
                     while (l < r && nums[l] == nums[l - 1]) {
                         ++l;
                     }
