@@ -40,9 +40,11 @@
 | 00016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) |
 | 00018 | [4Sum](https://leetcode.com/problems/4sum/)                  | [四数之和](https://leetcode-cn.com/problems/4sum/)           |
 | 00026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |
+| 00027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [移除元素](https://leetcode-cn.com/problems/remove-element/) |
 | 00042 | [Find All Duplicates in an Arra](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) |
 | 00056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) |
 | 00066 | [Plus One](https://leetcode.com/problems/plus-one/)          | [加一](https://leetcode-cn.com/problems/plus-one/)           |
+| 00088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |
 | 00905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) |
 
 ## 动态规划
@@ -50,4 +52,3 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
-| 00088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |
