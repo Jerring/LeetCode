@@ -40,6 +40,7 @@
 | 00016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) |
 | 00026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |
 | 00027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [移除元素](https://leetcode-cn.com/problems/remove-element/) |
+| 00031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) |
 | 00042 | [Find All Duplicates in an Arra](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) |
 | 00056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) |
 | 00066 | [Plus One](https://leetcode.com/problems/plus-one/)          | [加一](https://leetcode-cn.com/problems/plus-one/)           |
