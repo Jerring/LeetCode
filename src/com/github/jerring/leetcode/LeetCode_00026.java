@@ -2,25 +2,13 @@ package com.github.jerring.leetcode;
 
 public class LeetCode_00026 {
 
-    public int removeElement(int[] nums, int val) {
+    public int removeDuplicates(int[] nums) {
         int i = 0;
-        for (int j = 0; j < nums.length; ++j) {
-            if (nums[j] != val) {
-                nums[i++] = nums[j];
+        for (int j = 1; j < nums.length; ++j) {
+            if (nums[j] != nums[i]) {
+                nums[++i] = nums[j];
             }
         }
-        return i;
+        return i + 1;
     }
-
-//    public int removeElement(int[] nums, int val) {
-//        int n = nums.length;
-//        for (int i = 0; i < n; ) {
-//            if (nums[i] == val) {
-//                nums[i] = nums[--n];
-//            } else {
-//                ++i;
-//            }
-//        }
-//        return n;
-//    }
 }
