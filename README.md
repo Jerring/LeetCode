@@ -59,4 +59,5 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |
+| 00345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) |
 
