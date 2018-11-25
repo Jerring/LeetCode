@@ -59,6 +59,7 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) |
+| 00028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/) |
 | 00125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |
 | 00345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) |
 | 00349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |
