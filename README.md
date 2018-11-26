@@ -7,6 +7,7 @@
 | 00033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) |
 | 00034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 00035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) |
+| 00074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) |
 | 00081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) |
 | 00153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) |
 | 00154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) |
@@ -63,4 +64,3 @@
 | 00125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) |
 | 00345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) |
 | 00349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |
-
