@@ -71,5 +71,5 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) |
+| 00434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) |
 | 00443 | [String Compression](https://leetcode.com/problems/string-compression/) | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) |
-
