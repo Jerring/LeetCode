@@ -147,6 +147,7 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) |
 | 00151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) |
+| 00242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) |
 | 00383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)    | [赎金信](https://leetcode-cn.com/problems/ransom-note/)      |
 | 00387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [字符串中第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) |
 | 00434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) |
