@@ -158,7 +158,8 @@
 
 ## 二叉树
 
-| #     | Link                                                  | 链接                                                    |
-| ----- | ----------------------------------------------------- | ------------------------------------------------------- |
-| 00100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [相同的树](https://leetcode-cn.com/problems/same-tree/) |
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00100 | [Same Tree](https://leetcode.com/problems/same-tree/)        | [相同的树](https://leetcode-cn.com/problems/same-tree/)      |
+| 00101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [https://leetcode-cn.com/problems/symmetric-tree/](https://leetcode-cn.com/problems/symmetric-tree/) |
 
