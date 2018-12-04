@@ -26,8 +26,8 @@ public class LeetCode_00101 {
 //        stack.push(root.left);
 //        stack.push(root.right);
 //        while (!stack.isEmpty()) {
-//            TreeNode right = stack.poll();
-//            TreeNode left = stack.poll();
+//            TreeNode right = stack.pop();
+//            TreeNode left = stack.pop();
 //            if (left == null && right == null) {
 //                continue;
 //            }
