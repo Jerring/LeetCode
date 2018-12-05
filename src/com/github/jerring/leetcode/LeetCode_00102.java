@@ -14,9 +14,9 @@ public class LeetCode_00102 {
             queue.offer(root);
         }
         while (!queue.isEmpty()) {
-            // 每一行的结点个数
+            // 每一层的结点个数
             int size = queue.size();
-            // 用来存储一行元素的链表
+            // 用来存储这一层结点的链表
             List<Integer> level = new LinkedList<>();
             while (size-- != 0) {
                 TreeNode node = queue.poll();
