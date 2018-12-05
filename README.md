@@ -119,7 +119,7 @@
 | 00026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |
 | 00027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [移除元素](https://leetcode-cn.com/problems/remove-element/) |
 | 00031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) |
-| 00042 | [Find All Duplicates in an Arra](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) |
+| 00042 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) |
 | 00056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) |
 | 00066 | [Plus One](https://leetcode.com/problems/plus-one/)          | [加一](https://leetcode-cn.com/problems/plus-one/)           |
 | 00088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |
@@ -162,4 +162,5 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00100 | [Same Tree](https://leetcode.com/problems/same-tree/)        | [相同的树](https://leetcode-cn.com/problems/same-tree/)      |
 | 00101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |
+| 00102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |
 
