@@ -37,4 +37,26 @@ public class LeetCode_00103 {
         }
         return res;
     }
+
+//    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+//        List<List<Integer>> res = new ArrayList<>();
+//        traverse(root, 1, res);
+//        return res;
+//    }
+//
+//    private void traverse(TreeNode root, int level, List<List<Integer>> res) {
+//        if (root == null) {
+//            return;
+//        }
+//        if (res.size() < level) {
+//            res.add(new ArrayList<>());
+//        }
+//        if ((level & 1) == 1) {
+//            res.get(level - 1).add(root.val);
+//        } else {
+//            res.get(level - 1).add(0, root.val);
+//        }
+//        traverse(root.left, level + 1, res);
+//        traverse(root.right, level + 1, res);
+//    }
 }
