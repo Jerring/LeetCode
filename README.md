@@ -164,4 +164,4 @@
 | 00101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) |
 | 00102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |
 | 00103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [二叉树的锯齿形层次遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) |
-
+| 00104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
