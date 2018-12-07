@@ -16,6 +16,7 @@ public class LeetCode_00104 {
 //            queue.offer(root);
 //        }
 //        while (!queue.isEmpty()) {
+//            ++res;
 //            int size = queue.size();
 //            while (size-- != 0) {
 //                TreeNode node = queue.poll();
@@ -26,7 +27,6 @@ public class LeetCode_00104 {
 //                    queue.offer(node.right);
 //                }
 //            }
-//            ++res;
 //        }
 //        return res;
 //    }
