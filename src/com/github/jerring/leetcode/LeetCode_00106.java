@@ -42,6 +42,7 @@ public class LeetCode_00106 {
         }
         TreeNode root = new TreeNode(postorder[postEnd]);
         int i = map.get(root.val);
+        // 从中序下标转化得到后序下标
         int leftEnd = postBegin + i - inBegin - 1;
         root.left = buildTree(inorder, inBegin, i - 1, postorder, postBegin, leftEnd, map);
         root.right = buildTree(inorder, i + 1, inEnd, postorder, leftEnd + 1, postEnd - 1, map);
