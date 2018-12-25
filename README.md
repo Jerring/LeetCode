@@ -100,4 +100,5 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |
+| 00347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |
 
