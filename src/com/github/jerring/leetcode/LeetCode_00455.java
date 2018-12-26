@@ -1,6 +1,6 @@
 package com.github.jerring.leetcode;
 
-import java.util.*;
+import java.util.Arrays;
 
 public class LeetCode_00455 {
 
