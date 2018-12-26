@@ -103,3 +103,10 @@
 | 00215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |
 | 00347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |
 | 00451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/) |
+
+## 贪心
+
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) |
+
