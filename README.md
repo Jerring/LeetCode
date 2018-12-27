@@ -112,3 +112,5 @@
 | 00435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) |
 | 00452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) |
 | 00455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) |
+| 00763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) |
+
