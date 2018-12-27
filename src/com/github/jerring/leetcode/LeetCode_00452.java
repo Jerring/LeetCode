@@ -9,7 +9,7 @@ public class LeetCode_00452 {
         if (points == null || points.length == 0) {
             return 0;
         }
-        // 使用 lambda 表达式创建 Comparator 会使程序运行时间变长，可以改为 new Comparator
+        // 使用 lambda 表达式创建 Comparator 会使程序运行时间变长，可以改为匿名内部类的形式
         Arrays.sort(points, Comparator.comparingInt(o -> o[1]));
 //        Arrays.sort(points, new Comparator<int[]>() {
 //            @Override
