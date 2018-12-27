@@ -13,8 +13,8 @@ public class LeetCode_00763 {
             last[cs[i] - 'a'] = i;
         }
         List<Integer> res = new ArrayList<>();
-        int start = 0;  // 区间起始位置
-        int end = 0;    // 区间结束位置
+        int start = 0;  // 片段起始位置
+        int end = 0;    // 片段结束位置
         for (int i = 0; i < cs.length; ++i) {
             end = Math.max(end, last[cs[i] - 'a']);
             if (i == end) {
