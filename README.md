@@ -114,4 +114,6 @@
 | 00452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) |
 | 00455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/) |
 | 00605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |
+| 00665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) |
 | 00763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) |
+
