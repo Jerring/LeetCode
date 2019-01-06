@@ -13,7 +13,7 @@ public class LeetCode_00540 {
             if ((mid & 1) == 1) {
                 --mid;
             }
-            if (nums[mid] == nums[mid + 1]) {   // 说明 mid 之前都是元素成对存在的，单个元素在后面
+            if (nums[mid] == nums[mid + 1]) {   // 说明 mid 之前元素都是成对存在的，单个元素在后面
                 lo = mid + 2;
             } else {                            // 说明单个元素下标不超过 mid
                 hi = mid;
