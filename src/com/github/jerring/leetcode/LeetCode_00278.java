@@ -16,7 +16,7 @@ public class LeetCode_00278 {
         return lo;
     }
 
-    // 题目已定义，无须实现，此处为了避免语法错误而添加
+    // 题目已定义，无须实现，此处为了避免编译错误而添加
     private boolean isBadVersion(int mid) {
         return true;
     }
