@@ -52,14 +52,6 @@
 | 00088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) |
 | 00905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) |
 
-## 动态规划
-
-| #     | Link                                                         | 链接                                                         |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 00053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) |
-| 00064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
-| 00121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
-
 ## 双指针
 
 | #     | Link                                                         | 链接                                                         |
@@ -123,3 +115,18 @@
 | 00605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/) |
 | 00665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) |
 | 00763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) |
+
+## 动态规划
+
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) |
+| 00064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
+| 00121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
+
+## 分治
+
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/) |
+
