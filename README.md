@@ -133,7 +133,7 @@
 
 ## 搜索
 
-| #     | Link                                                      | 链接                                                      |
-| ----- | --------------------------------------------------------- | --------------------------------------------------------- |
-| 00127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [单词接龙](https://leetcode-cn.com/problems/word-ladder/) |
-
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)    | [单词接龙](https://leetcode-cn.com/problems/word-ladder/)    |
+| 00695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |
