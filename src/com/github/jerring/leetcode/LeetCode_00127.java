@@ -63,13 +63,13 @@ public class LeetCode_00127 {
         int level = 1;
         while (!head.isEmpty() && !tail.isEmpty()) {
             ++level;
-            // 确保头集合较小，保持平衡
+            // 优先扩展队列大小较小的，保持头队列为包含元素较少的队列
             if (head.size() > tail.size()) {
                 Set tmp = head;
                 head = tail;
                 tail = tmp;
             }
-            // 构建下一次迭代的头队列
+            // 构建下一次扩展的头队列
             Set<String> newHead = new HashSet<>();
             for (String word : head) {
                 char[] cs = word.toCharArray();
