@@ -141,6 +141,7 @@
 | 00127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)    | [单词接龙](https://leetcode-cn.com/problems/word-ladder/)    |
 | 00130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) |
 | 00200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [岛屿的个数](https://leetcode-cn.com/problems/number-of-islands/) |
+| 00257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) |
 | 00417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) |
 | 00695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |
 
