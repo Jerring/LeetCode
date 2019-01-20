@@ -136,6 +136,7 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) |
+| 00079 | [Word Search](https://leetcode.com/problems/word-search/)    | [单词搜索](https://leetcode-cn.com/problems/word-search/)    |
 | 00093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) |
 | 00127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)    | [单词接龙](https://leetcode-cn.com/problems/word-ladder/)    |
 | 00130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/) |
