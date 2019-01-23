@@ -23,6 +23,7 @@ public class LeetCode_00078 {
 
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res = new ArrayList<>(1 << nums.length);
+        // 首先添加一个空集
         res.add(new ArrayList<>());
         for (int num : nums) {
             // 枚举原来的每一个子集，把当前元素加入到所有子集中
