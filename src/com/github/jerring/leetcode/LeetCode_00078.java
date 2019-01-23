@@ -26,7 +26,7 @@ public class LeetCode_00078 {
         // 首先添加一个空集
         res.add(new ArrayList<>());
         for (int num : nums) {
-            // 枚举原来的每一个子集，把当前元素加入到所有子集中
+            // 枚举原来的每一个子集，把当前元素加入到该子集中
             int size = res.size();
             for (int i = 0; i < size; ++i) {
                 // 拷贝一份
