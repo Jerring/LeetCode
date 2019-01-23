@@ -25,6 +25,7 @@ public class LeetCode_00078 {
         List<List<Integer>> res = new ArrayList<>(1 << nums.length);
         // 首先添加一个空集
         res.add(new ArrayList<>());
+        // 枚举每一个元素
         for (int num : nums) {
             // 枚举原来的每一个子集，把当前元素加入到该子集中
             int size = res.size();
