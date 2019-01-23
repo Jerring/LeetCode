@@ -141,6 +141,7 @@
 | 00046 | [Permutations](https://leetcode.com/problems/permutations/)  | [全排列](https://leetcode-cn.com/problems/permutations/)     |
 | 00047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) |
 | 00077 | [Combinations](https://leetcode.com/problems/combinations/)  | [组合](https://leetcode-cn.com/problems/combinations/)       |
+| 00078 | [Subsets](https://leetcode.com/problems/subsets/)            | [子集](https://leetcode-cn.com/problems/subsets/)            |
 | 00079 | [Word Search](https://leetcode.com/problems/word-search/)    | [单词搜索](https://leetcode-cn.com/problems/word-search/)    |
 | 00093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [复原IP地址](https://leetcode-cn.com/problems/restore-ip-addresses/) |
 | 00127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)    | [单词接龙](https://leetcode-cn.com/problems/word-ladder/)    |
