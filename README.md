@@ -136,6 +136,7 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) |
+| 00037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [解数独](https://leetcode-cn.com/problems/sudoku-solver/)    |
 | 00039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [组合总和](https://leetcode-cn.com/problems/combination-sum/) |
 | 00040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/) |
 | 00046 | [Permutations](https://leetcode.com/problems/permutations/)  | [全排列](https://leetcode-cn.com/problems/permutations/)     |
