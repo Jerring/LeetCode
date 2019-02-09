@@ -130,6 +130,7 @@
 | 00198 | [House Robber](https://leetcode.com/problems/house-robber/)  | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   |
 | 00213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) |
 | 00279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) |
+| 00303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) |
 
 ## 分治
 
