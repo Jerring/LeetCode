@@ -131,6 +131,7 @@
 | 00213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) |
 | 00279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) |
 | 00303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) |
+| 00343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [整数拆分](https://leetcode-cn.com/problems/integer-break/)  |
 | 00413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) |
 
 ## 分治
