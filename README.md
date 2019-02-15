@@ -137,6 +137,7 @@
 | 00343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [整数拆分](https://leetcode-cn.com/problems/integer-break/)  |
 | 00376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) |
 | 00413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) |
+| 00416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) |
 
 ## 分治
 
