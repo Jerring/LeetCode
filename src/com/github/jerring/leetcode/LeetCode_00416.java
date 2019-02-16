@@ -16,7 +16,7 @@ public class LeetCode_00416 {
         dp[0] = true;
         for (int num : nums) {
             for (int i = sum; i >= num; --i) {
-                dp[i] = dp[i - num];
+                dp[i] = dp[i] || dp[i - num];
             }
             if (dp[sum]) {
                 return true;
