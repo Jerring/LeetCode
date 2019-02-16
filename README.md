@@ -175,3 +175,9 @@
 | #     | Link                                                         | 链接                                                       |
 | ----- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | 00547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [朋友圈](https://leetcode-cn.com/problems/friend-circles/) |
+
+## 算法实现
+
+| #     | Link                                                  | 链接                                                       |
+| ----- | ----------------------------------------------------- | ---------------------------------------------------------- |
+| 00146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) |
