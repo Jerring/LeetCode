@@ -180,6 +180,7 @@
 
 ## 算法实现
 
-| #     | Link                                                  | 链接                                                       |
-| ----- | ----------------------------------------------------- | ---------------------------------------------------------- |
-| 00146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) |
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)   |
+| 00208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [实现 Trie（前缀树）](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) |
