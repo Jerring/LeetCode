@@ -18,6 +18,7 @@ public class LeetCode_00494 {
 //    public int findTargetSumWays(int[] nums, int S) {
 //        int[][] cache = new int[nums.length][2001];
 //        for (int[] row : cache) {
+//            // 运用 -1 表示不存在
 //            Arrays.fill(row, -1);
 //        }
 //        return findTargetSumWays(nums, 0, 0, S, cache);
@@ -48,7 +49,7 @@ public class LeetCode_00494 {
     }
 
     /**
-     * 传入一个数组和目标值，返回数组所表示的集合的子集中元素的加和等于目标值的情况总数。
+     * 传入一个数组和目标值，返回数组所表示的集合的子集中元素的加和等于目标值的方法总数。
      * 这是一个 01背包 问题（每个元素有选与不选两种选择）。
      * @param nums 数组
      * @param s 目标值
