@@ -140,6 +140,7 @@
 | 00376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) |
 | 00413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) |
 | 00416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) |
+| 00494 | [Target Sum](https://leetcode.com/problems/target-sum/)      | [目标和](https://leetcode-cn.com/problems/target-sum/)       |
 
 ## 分治
 
