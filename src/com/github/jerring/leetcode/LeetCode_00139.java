@@ -39,7 +39,7 @@ public class LeetCode_00139 {
         return dp[n];
     }
 
-//    // DFS
+//    // DFS + 剪枝（设置访问标志）
 //    public boolean wordBreak(String s, List<String> wordDict) {
 //        if (s == null || s.length() == 0) {
 //            return false;
