@@ -131,6 +131,7 @@
 | 00070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  |
 | 00091 | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [解码方法](https://leetcode-cn.com/problems/decode-ways/)    |
 | 00121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
+| 00139 | [Word Break](https://leetcode.com/problems/word-break/)      | [单词拆分](https://leetcode-cn.com/problems/word-break/)     |
 | 00198 | [House Robber](https://leetcode.com/problems/house-robber/)  | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   |
 | 00213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) |
 | 00279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/) |
