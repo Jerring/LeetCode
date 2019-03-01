@@ -44,6 +44,14 @@
 | 00232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |
 | 00844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [比较含退格的字符](https://leetcode-cn.com/problems/backspace-string-compare/) |
 
+## 优先队列
+
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) |
+
+
+
 ## 哈希表
 
 | #     | Link                                              | 链接                                                  |
