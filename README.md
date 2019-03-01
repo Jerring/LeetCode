@@ -40,6 +40,7 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) |
+| 00844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [比较含退格的字符](https://leetcode-cn.com/problems/backspace-string-compare/) |
 
 ## 哈希表
 
