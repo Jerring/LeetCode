@@ -64,7 +64,7 @@ public class LeetCode_00225 {
             while (!out.isEmpty()) {
                 in.offer(out.poll());
             }
-            // 交换两者的角色
+            // 交换两者的角色（in 为空，out 按元素的逆序排列）
             Queue tmp = in;
             in = out;
             out = tmp;
