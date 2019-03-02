@@ -66,6 +66,7 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00015 | [3Sum](https://leetcode.com/problems/3sum/)                  | [三数之和](https://leetcode-cn.com/problems/3sum/)           |
 | 00016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) |
+| 00018 | [4Sum](https://leetcode.com/problems/4sum/)                  | [四数之和](https://leetcode-cn.com/problems/4sum/)           |
 | 00026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |
 | 00027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [移除元素](https://leetcode-cn.com/problems/remove-element/) |
 | 00031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) |
