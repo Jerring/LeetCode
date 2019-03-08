@@ -182,6 +182,7 @@
 
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)           | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)        |
 | 00241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/) |
 
 ## 搜索
