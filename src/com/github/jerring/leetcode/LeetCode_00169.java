@@ -4,20 +4,15 @@ public class LeetCode_00169 {
 
     // 摩尔投票算法
     public int majorityElement(int[] nums) {
-        int majority = nums[0];
-        int cnt = 1;
-        for (int i = 1; i < nums.length; ++i) {
-            if (nums[i] == majority) {
-                ++cnt;
-            } else {
-                --cnt;
-                if (cnt == 0) {
-                    majority = nums[i];
-                    cnt = 1;
-                }
+        int candidate = nums[0];
+        int cnt = 0;
+        for (int num : nums) {
+            if (cnt == 0) {
+                candidate = num;
             }
+            cnt += (num == candidate) ? 1 : -1;
         }
-        return majority;
+        return candidate;
     }
 
 //    // 分治
