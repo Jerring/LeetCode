@@ -173,6 +173,7 @@
 | 00303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) |
 | 00309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
 | 00322 | [Coin Change](https://leetcode.com/problems/coin-change/)    | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    |
+| 00329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) |
 | 00343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [整数拆分](https://leetcode-cn.com/problems/integer-break/)  |
 | 00376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) |
 | 00377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [组合总和 IV](https://leetcode-cn.com/problems/combination-sum-iv/) |
