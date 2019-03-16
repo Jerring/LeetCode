@@ -3,9 +3,8 @@ package com.github.jerring.leetcode;
 public class LeetCode_00021 {
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        ListNode head = new ListNode(0);
-        ListNode node =  head;
-
+        ListNode dummy = new ListNode(-1);
+        ListNode node =  dummy;
         while (l1 != null && l2 != null) {
             if (l1.val < l2.val) {
                 node.next = l1;
@@ -16,16 +15,13 @@ public class LeetCode_00021 {
             }
             node = node.next;
         }
-
-        if (l1 == null) {
-            node.next = l2;
-        }
-        if (l2 == null) {
+        if (l1 != null) {
             node.next = l1;
         }
-
-        head = head.next;
-        return head;
+        if (l2 != null) {
+            node.next = l2;
+        }
+        return dummy.next;
     }
 
     // 递归写法
