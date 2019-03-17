@@ -166,6 +166,7 @@
 | 00064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
 | 00070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  |
 | 00091 | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [解码方法](https://leetcode-cn.com/problems/decode-ways/)    |
+| 00120 | [Triangle](https://leetcode.com/problems/triangle/)          | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) |
 | 00121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
 | 00139 | [Word Break](https://leetcode.com/problems/word-break/)      | [单词拆分](https://leetcode-cn.com/problems/word-break/)     |
 | 00198 | [House Robber](https://leetcode.com/problems/house-robber/)  | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   |
