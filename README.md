@@ -179,6 +179,7 @@
 | 00322 | [Coin Change](https://leetcode.com/problems/coin-change/)    | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    |
 | 00329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) |
 | 00343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [整数拆分](https://leetcode-cn.com/problems/integer-break/)  |
+| 00354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) |
 | 00376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) |
 | 00377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [组合总和 IV](https://leetcode-cn.com/problems/combination-sum-iv/) |
 | 00413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) |
