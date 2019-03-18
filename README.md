@@ -234,3 +234,4 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)   |
 | 00208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [实现 Trie（前缀树）](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) |
+| 00432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/) |
