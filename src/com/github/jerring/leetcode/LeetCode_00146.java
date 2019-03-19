@@ -102,11 +102,8 @@ public class LeetCode_00146 {
          * @param node 待添加结点
          */
         private void add(Node node) {
-            Node next = head.next;
-            node.pre = head;
-            node.next = next;
-            head.next = node;
-            next.pre = node;
+            link(node, head.next);
+            link(head, node);
         }
 
         /**
@@ -114,10 +111,17 @@ public class LeetCode_00146 {
          * @param node 待删除结点
          */
         private void remove(Node node) {
-            Node pre = node.pre;
-            Node next = node.next;
-            pre.next = next;
-            next.pre = pre;
+            link(node.pre, node.next);
+        }
+
+        /**
+         * 链接 node1 和 node2
+         * @param node1 前一个结点
+         * @param node2 后一个结点
+         */
+        private void link(Node node1, Node node2) {
+            node1.next = node2;
+            node2.pre = node1;
         }
     }
 }
