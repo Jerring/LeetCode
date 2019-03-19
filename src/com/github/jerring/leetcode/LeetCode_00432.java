@@ -83,7 +83,7 @@ public class LeetCode_00432 {
         }
 
         public String getMinKey() {
-            return tail.pre == head ? "" : head.next.keys.iterator().next();
+            return head.next == tail ? "" : head.next.keys.iterator().next();
         }
 
         private void link(Node node1, Node node2) {
