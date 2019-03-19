@@ -70,7 +70,7 @@ public class LeetCode_00432 {
                     node.pre.keys.add(key);
                 }
             } else {
-                addNodeAfter(node, key, newValue);
+                addNodeAfter(node.pre, key, newValue);
             }
             node.keys.remove(key);
             if (node.keys.isEmpty()) {
