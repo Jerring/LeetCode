@@ -56,8 +56,7 @@ public class LeetCode_00146 {
             this.size = 0;
             head = new Node(0, 0);
             tail = new Node(0, 0);
-            head.next = tail;
-            tail.pre = head;
+            link(head, tail);
         }
 
         public int get(int key) {
