@@ -58,7 +58,7 @@ public class LeetCode_00221 {
 //            for (int j = 1; j <= n; ++j) {
 //                int tmp = dp[j];
 //                if (matrix[i - 1][j - 1] == '1') {
-//                    dp[j] = 1 + Math.min(dp[j - 1], Math.min(pre, dp[j]));
+//                    dp[j] = 1 + Math.min(pre, Math.min(dp[j - 1], dp[j]));
 //                    res = Math.max(res, dp[j]);
 //                } else {
 //                    dp[j] = 0;
