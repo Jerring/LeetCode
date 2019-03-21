@@ -232,6 +232,12 @@
 | ----- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | 00547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [朋友圈](https://leetcode-cn.com/problems/friend-circles/) |
 
+## 位运算
+
+| #     | Link                                                        | 链接                                                    |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------------- |
+| 00231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [2的幂](https://leetcode-cn.com/problems/power-of-two/) |
+
 ## 算法实现
 
 | #     | Link                                                         | 链接                                                         |
