@@ -6,5 +6,6 @@ public class LeetCode_00342 {
         return num > 0 && (num & (num - 1)) == 0 && (num & 0x55555555) != 0;
 //        return num > 0 && (num & (num - 1)) == 0 && (num & 0x55555555) == num;
 //        return num > 0 && (num & (num - 1)) == 0 && (num & 0xaaaaaaaa) == 0;
+//        return num > 0 && (num & (num - 1)) == 0 && (num | 0x55555555) == 0x55555555;
     }
 }
