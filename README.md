@@ -234,9 +234,10 @@
 
 ## 位运算
 
-| #     | Link                                                        | 链接                                                    |
-| ----- | ----------------------------------------------------------- | ------------------------------------------------------- |
-| 00231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [2的幂](https://leetcode-cn.com/problems/power-of-two/) |
+| #     | Link                                                         | 链接                                                     |
+| ----- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| 00231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [2的幂](https://leetcode-cn.com/problems/power-of-two/)  |
+| 00342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [4的幂](https://leetcode-cn.com/problems/power-of-four/) |
 
 ## 算法实现
 
