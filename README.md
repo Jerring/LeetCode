@@ -239,6 +239,12 @@
 | 00231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [2的幂](https://leetcode-cn.com/problems/power-of-two/)  |
 | 00342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [4的幂](https://leetcode-cn.com/problems/power-of-four/) |
 
+## 数学
+
+| #     | Link                                                         | 链接                                                      |
+| ----- | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 00326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [3的幂](https://leetcode-cn.com/problems/power-of-three/) |
+
 ## 算法实现
 
 | #     | Link                                                         | 链接                                                         |
