@@ -240,6 +240,7 @@
 | 00231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      |
 | 00342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [4的幂](https://leetcode-cn.com/problems/power-of-four/)     |
 | 00461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |
+| 00477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) |
 
 ## 数学
 
