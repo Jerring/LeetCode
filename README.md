@@ -135,6 +135,7 @@
 | 00111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) |
 | 00112 | [Path Sum](https://leetcode.com/problems/path-sum/)          | [路径总和](https://leetcode-cn.com/problems/path-sum/)       |
 | 00113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)    | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) |
+| 00114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) |
 | 00124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |
 | 00144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) |
 | 00145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) |
