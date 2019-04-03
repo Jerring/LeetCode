@@ -13,7 +13,6 @@ public class LeetCode_00007 {
                     return 0;
                 }
                 r = r * 10 + t;
-
             }
         } else if (x < 0) {
             int m = Integer.MIN_VALUE / 10;
