@@ -261,6 +261,12 @@
 | 00009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |
 | 00326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [3的幂](https://leetcode-cn.com/problems/power-of-three/)    |
 
+## 脑筋急转弯
+
+| #     | Link                                                | 链接                                                  |
+| ----- | --------------------------------------------------- | ----------------------------------------------------- |
+| 00292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) |
+
 ## 算法实现
 
 | #     | Link                                                         | 链接                                                         |
