@@ -257,6 +257,7 @@
 
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) |
 | 00009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |
 | 00326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [3的幂](https://leetcode-cn.com/problems/power-of-three/)    |
 
