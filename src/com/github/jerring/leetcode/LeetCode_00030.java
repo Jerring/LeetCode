@@ -44,7 +44,7 @@ public class LeetCode_00030 {
 //                    sub = s.substring(l, l + len);
 //                    l += len;
 //                    if (map.containsKey(sub)) {
-//                        // 对应计数减一
+//                        // 对应计数加一
 //                        map.put(sub, map.get(sub) + 1);
 //                        // 在有效范围内更新 size
 //                        if (map.get(sub) > 0) {
@@ -77,6 +77,7 @@ public class LeetCode_00030 {
                 String sub = s.substring(r, r + len);
                 r += len;
                 if (src.containsKey(sub)) {
+                    // 对应计数加一
                     map.put(sub, map.getOrDefault(sub, 0) + 1);
                     // 在有效范围内更新 size
                     if (map.get(sub) <= src.get(sub)) {
@@ -90,6 +91,7 @@ public class LeetCode_00030 {
                     sub = s.substring(l, l + len);
                     l += len;
                     if (src.containsKey(sub)) {
+                        // 对应计数减一
                         map.put(sub, map.get(sub) - 1);
                         // 在有效范围内更新 size
                         if (map.get(sub) < src.get(sub)) {
