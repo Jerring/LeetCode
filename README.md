@@ -55,6 +55,7 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [无重复字符的最长字串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |
+| 00030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [串联所有单词的字串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) |
 | 00076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |
 | 00209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) |
 | 00239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |
