@@ -18,7 +18,7 @@ public class LeetCode_00030 {
 //        }
 //        int len = words[0].length();
 //        int window = words.length * len;
-//        // 分别以 [0, len) 开始寻找
+//        // 分别从 [0, len) 开始寻找
 //        for (int i = 0; i < len; ++i) {
 //            // 复制一份，避免上次循环对这次的干扰
 //            Map<String, Integer> map = new HashMap<>(src);
