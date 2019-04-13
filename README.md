@@ -55,6 +55,7 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [无重复字符的最长字串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) |
+| 00076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |
 | 00209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) |
 | 00239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |
 | 00438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) |
@@ -67,8 +68,6 @@
 | 00347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |
 | 00692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |
 | 00703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) |
-
-
 
 ## 哈希表
 
