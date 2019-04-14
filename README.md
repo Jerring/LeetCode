@@ -72,9 +72,10 @@
 
 ## 哈希表
 
-| #     | Link                                              | 链接                                                  |
-| ----- | ------------------------------------------------- | ----------------------------------------------------- |
-| 00001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [两数之和](https://leetcode-cn.com/problems/two-sum/) |
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00001 | [Two Sum](https://leetcode.com/problems/two-sum/)            | [两数之和](https://leetcode-cn.com/problems/two-sum/)        |
+| 01002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |
 
 ## 数组
 
