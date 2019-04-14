@@ -108,6 +108,7 @@
 | 00167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 00345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/) |
 | 00349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |
+| 00350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) |
 | 00632 | [Smallest Range](https://leetcode.com/problems/smallest-range/) | [最小区间](https://leetcode-cn.com/problems/smallest-range/) |
 
 ## 字符串
