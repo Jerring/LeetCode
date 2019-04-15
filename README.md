@@ -76,6 +76,7 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00001 | [Two Sum](https://leetcode.com/problems/two-sum/)            | [两数之和](https://leetcode-cn.com/problems/two-sum/)        |
 | 00202 | [Happy Number](https://leetcode.com/problems/happy-number/)  | [快乐数](https://leetcode-cn.com/problems/happy-number/)     |
+| 00205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) |
 | 00290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)  | [单词模式](https://leetcode-cn.com/problems/word-pattern/)   |
 | 01002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |
 
