@@ -40,6 +40,7 @@ public class LeetCode_00290 {
             if (!map1.getOrDefault(c, -1).equals(map2.getOrDefault(split[i], -1))) {
                 return false;
             }
+            // 映射到当前索引
             map1.put(c, i);
             map2.put(split[i], i);
         }
