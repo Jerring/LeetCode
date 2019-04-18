@@ -76,6 +76,10 @@ public class LeetCode_00127 {
                 for (int i = 0; i < cs.length; ++i) {
                     char ch = cs[i];
                     for (char j = 'a'; j <= 'z'; ++j) {
+                        // 跳过自身
+                        if (ch == j) {
+                            continue;
+                        }
                         // 变动一个字符得到新字符串
                         cs[i] = j;
                         String s = new String(cs);
