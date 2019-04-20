@@ -2,13 +2,13 @@ package com.github.jerring.leetcode;
 
 public class LeetCode_00069 {
 
-    public int mySqrt(int x) {
-        long r = x;
-        while (r * r > x) {
-            r = (r + x / r) / 2;
-        }
-        return (int) r;
-    }
+//    public int mySqrt(int x) {
+//        long r = x;
+//        while (r * r > x) {
+//            r = (r + x / r) / 2;
+//        }
+//        return (int) r;
+//    }
 
 //    public int mySqrt(int x) {
 //        if (x <= 1) {
@@ -48,4 +48,18 @@ public class LeetCode_00069 {
 //            }
 //        }
 //    }
+
+    public int mySqrt(int x) {
+        int lo = 1;
+        int hi = x;
+        while (lo <= hi) {
+            int mid = (lo + hi) >>> 1;
+            if (mid > x / mid) {
+                hi = mid - 1;
+            } else {
+                lo = mid + 1;
+            }
+        }
+        return lo - 1;
+    }
 }
