@@ -69,30 +69,30 @@ public class LeetCode_00034 {
 //    }
 //
 //    private int first(int[] nums, int target) {
-//        int lo = 0;
-//        int hi = nums.length - 1;
-//        while (lo < hi) {
-//            int mid = (lo + hi) >>> 1;
+//        int l = 0;
+//        int r = nums.length - 1;
+//        while (l < r) {
+//            int mid = (l + r) >>> 1;
 //            if (nums[mid] >= target) {
-//                hi = mid;
+//                r = mid;
 //            } else {
-//                lo = mid + 1;
+//                l = mid + 1;
 //            }
 //        }
-//        return hi;
+//        return r;
 //    }
 //
 //    private int last(int[] nums, int target) {
-//        int lo = 0;
-//        int hi = nums.length - 1;
-//        while (lo < hi) {
-//            int mid = (lo + hi + 1) >>> 1;
+//        int l = 0;
+//        int r = nums.length - 1;
+//        while (l < r) {
+//            int mid = (l + r + 1) >>> 1;
 //            if (nums[mid] <= target) {
-//                lo = mid;
+//                l = mid;
 //            } else {
-//                hi = mid - 1;
+//                r = mid - 1;
 //            }
 //        }
-//        return hi;
+//        return r;
 //    }
 }
