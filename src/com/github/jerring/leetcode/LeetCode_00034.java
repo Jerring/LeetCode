@@ -55,4 +55,44 @@ public class LeetCode_00034 {
         }
         return lo;
     }
+
+//    public int[] searchRange(int[] nums, int target) {
+//        if (nums.length == 0) {
+//            return new int[] {-1, -1};
+//        }
+//        int left = first(nums, target);
+//        if (nums[left] != target) {
+//            return new int[] {-1, -1};
+//        }
+//        int right = last(nums, target);
+//        return new int[] {left, right};
+//    }
+//
+//    private int first(int[] nums, int target) {
+//        int lo = 0;
+//        int hi = nums.length - 1;
+//        while (lo < hi) {
+//            int mid = (lo + hi) >>> 1;
+//            if (nums[mid] >= target) {
+//                hi = mid;
+//            } else {
+//                lo = mid + 1;
+//            }
+//        }
+//        return hi;
+//    }
+//
+//    private int last(int[] nums, int target) {
+//        int lo = 0;
+//        int hi = nums.length - 1;
+//        while (lo < hi) {
+//            int mid = (lo + hi + 1) >>> 1;
+//            if (nums[mid] <= target) {
+//                lo = mid;
+//            } else {
+//                hi = mid - 1;
+//            }
+//        }
+//        return hi;
+//    }
 }
