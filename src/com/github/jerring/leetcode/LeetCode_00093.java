@@ -7,7 +7,7 @@ public class LeetCode_00093 {
 
     public List<String> restoreIpAddresses(String s) {
         List<String> res = new ArrayList<>();
-        if (s == null || s.length() < 4) {
+        if (s == null || s.length() < 4 || s.length() > 12) {
             return res;
         }
         dfs(s, res, new StringBuilder(), 0, 0);
@@ -15,11 +15,10 @@ public class LeetCode_00093 {
     }
 
     private void dfs(String s, List<String> res, StringBuilder ip, int index, int cnt) {
-        if (cnt > 4) {
-            return;
-        }
-        if (cnt == 4 && index == s.length()) {
-            res.add(ip.toString());
+        if (cnt == 4) {
+            if (index == s.length()) {
+                res.add(ip.toString());
+            }
             return;
         }
         for (int i = 1; i < 4; ++i) {
