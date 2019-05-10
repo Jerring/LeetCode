@@ -78,6 +78,7 @@
 | 00049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) |
 | 00202 | [Happy Number](https://leetcode.com/problems/happy-number/)  | [快乐数](https://leetcode-cn.com/problems/happy-number/)     |
 | 00205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) |
+| 00219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate-ii/) |
 | 00290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)  | [单词模式](https://leetcode-cn.com/problems/word-pattern/)   |
 | 00447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/) |
 | 00454 | [4Sum II](https://leetcode.com/problems/4sum-ii/)            | [四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)     |
