@@ -118,6 +118,7 @@
 | 00349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |
 | 00350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) |
 | 00632 | [Smallest Range](https://leetcode.com/problems/smallest-range/) | [最小区间](https://leetcode-cn.com/problems/smallest-range/) |
+| 00977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) |
 
 ## 字符串
 
