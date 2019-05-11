@@ -28,6 +28,7 @@
 | 00061 | [Rotate List](https://leetcode.com/problems/rotate-list/)    | [旋转链表](https://leetcode-cn.com/problems/rotate-list/)    |
 | 00082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) |
 | 00083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |
+| 00086 | [Partition List](https://leetcode.com/problems/partition-list/) | [分隔链表](https://leetcode-cn.com/problems/partition-list/) |
 | 00092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) |
 | 00141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) |
 | 00142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |
