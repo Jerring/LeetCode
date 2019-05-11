@@ -120,6 +120,7 @@
 | 00350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) |
 | 00532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [数组中的K-diff数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) |
 | 00632 | [Smallest Range](https://leetcode.com/problems/smallest-range/) | [最小区间](https://leetcode-cn.com/problems/smallest-range/) |
+| 00845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) |
 | 00977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) |
 
 ## 字符串
