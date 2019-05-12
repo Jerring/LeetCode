@@ -30,7 +30,7 @@ public class LeetCode_00881 {
             while (i <= j && bucket[j] <= 0) {
                 --j;
             }
-            if (bucket[i] == 0 && bucket[j] <= 0) {
+            if (bucket[i] <= 0 && bucket[j] <= 0) {
                 break;
             }
             if (i + j <= limit) {
