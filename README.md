@@ -123,6 +123,7 @@
 | 00845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) |
 | 00881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [救生艇](https://leetcode-cn.com/problems/boats-to-save-people/) |
 | 00977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) |
+| 00986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections/) |
 
 ## 字符串
 
