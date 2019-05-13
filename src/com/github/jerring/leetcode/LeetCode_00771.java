@@ -18,4 +18,8 @@ public class LeetCode_00771 {
         }
         return res;
     }
+
+//    public int numJewelsInStones(String J, String S) {
+//        return S.replaceAll("[^" + J + "]", "").length();
+//    }
 }
