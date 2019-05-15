@@ -47,7 +47,7 @@ public class LeetCode_00645 {
         for (int num : nums) {
             t ^= num;
         }
-        int lastOne = t & -t;
+        int lastOne = t & -t;   // 得到最后一个 1
         int t1 = 0, t2 = 0;
         for (int i = 1; i <= nums.length; ++i) {
             if ((i & lastOne) == 0) {
