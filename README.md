@@ -87,6 +87,7 @@
 | 00463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) |
 | 00500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)  | [键盘行](https://leetcode-cn.com/problems/keyboard-row/)     |
 | 00575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [分糖果](https://leetcode-cn.com/problems/distribute-candies/) |
+| 00594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) |
 | 00645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)  | [错误的集合](https://leetcode-cn.com/problems/set-mismatch/) |
 | 00771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) |
 | 01002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |
