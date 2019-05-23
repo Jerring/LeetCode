@@ -36,8 +36,8 @@ public class LeetCode_00299 {
             if (s == g) {
                 ++a;
             } else {
-                if (++map[s - '0'] <= 0) ++b;
-                if (--map[g - '0'] >= 0) ++b;
+                if (++map[s - '0'] <= 0) ++b;   // 说明之前 guess 至少有一个 s
+                if (--map[g - '0'] >= 0) ++b;   // 说明之前 secret 至少有一个 g
             }
         }
         return a + "A" + b + "B";
