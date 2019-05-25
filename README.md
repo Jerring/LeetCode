@@ -94,6 +94,7 @@
 | 00609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [在系统中查找重复文件](https://leetcode-cn.com/problems/find-duplicate-file-in-system/) |
 | 00645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)  | [错误的集合](https://leetcode-cn.com/problems/set-mismatch/) |
 | 00771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) |
+| 00748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [最短完整词](https://leetcode-cn.com/problems/shortest-completing-word/) |
 | 01002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |
 
 ## 数组
