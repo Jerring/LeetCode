@@ -43,11 +43,11 @@ public class LeetCode_00095 {
         for (int i = 1; i <= n; i++) {
             dp[i] = new ArrayList<>();
             for (int j = 1; j <= i; j++) {
-                for (TreeNode nodeL : dp[j - 1]) {
-                    for (TreeNode nodeR : dp[i - j]) {
+                for (TreeNode left : dp[j - 1]) {
+                    for (TreeNode right : dp[i - j]) {
                         TreeNode node = new TreeNode(j);
-                        node.left = nodeL;              // 复用
-                        node.right = copy(nodeR, j);    // 加上偏移量复制一份
+                        node.left = left;              // 复用
+                        node.right = copy(right, j);   // 加上偏移量复制一份
                         dp[i].add(node);
                     }
                 }
