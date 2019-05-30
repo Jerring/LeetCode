@@ -179,6 +179,7 @@
 | 00112 | [Path Sum](https://leetcode.com/problems/path-sum/)          | [路径总和](https://leetcode-cn.com/problems/path-sum/)       |
 | 00113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)    | [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) |
 | 00114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) |
+| 00116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) |
 | 00124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) |
 | 00129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) |
 | 00144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) |
