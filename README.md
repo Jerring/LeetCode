@@ -185,6 +185,7 @@
 | 00129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) |
 | 00144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) |
 | 00145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) |
+| 00173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/) |
 | 00199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) |
 | 00230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) |
 | 00235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
