@@ -205,6 +205,7 @@
 | 00543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |
 | 00559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) |
 | 00563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) |
+| 00572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |
 | 00653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) |
 | 00897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) |
 | 01026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) |
