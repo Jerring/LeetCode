@@ -15,6 +15,6 @@ public class LeetCode_00563 {
         int left = dfs(root.left, res);
         int right = dfs(root.right, res);
         res[0] += Math.abs(left - right);
-        return root.val + left +right;
+        return root.val + left + right;
     }
 }
