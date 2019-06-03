@@ -321,6 +321,7 @@
 | 00187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) |
 | 00191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) |
 | 00231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      |
+| 00268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [缺失数字](https://leetcode-cn.com/problems/missing-number/) |
 | 00342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [4的幂](https://leetcode-cn.com/problems/power-of-four/)     |
 | 00389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [找不同](https://leetcode-cn.com/problems/find-the-difference/) |
 | 00461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |
