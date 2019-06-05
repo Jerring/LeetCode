@@ -330,6 +330,7 @@
 | 00371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) |
 | 00389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [找不同](https://leetcode-cn.com/problems/find-the-difference/) |
 | 00393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [UTF-8编码验证](https://leetcode-cn.com/problems/utf-8-validation/) |
+| 00397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) |
 | 00461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |
 | 00477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) |
 
