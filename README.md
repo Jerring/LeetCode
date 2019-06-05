@@ -322,6 +322,7 @@
 | 00190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) |
 | 00191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) |
 | 00231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      |
+| 00260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) |
 | 00268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [缺失数字](https://leetcode-cn.com/problems/missing-number/) |
 | 00342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [4的幂](https://leetcode-cn.com/problems/power-of-four/)     |
 | 00389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [找不同](https://leetcode-cn.com/problems/find-the-difference/) |
