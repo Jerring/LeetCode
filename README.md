@@ -321,6 +321,7 @@
 | 00187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/) |
 | 00190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) |
 | 00191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) |
+| 00201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/) |
 | 00231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [2的幂](https://leetcode-cn.com/problems/power-of-two/)      |
 | 00260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) |
 | 00268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [缺失数字](https://leetcode-cn.com/problems/missing-number/) |
