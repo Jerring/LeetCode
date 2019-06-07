@@ -46,6 +46,7 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) |
+| 00150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) |
 | 00155 | [Min Stack](https://leetcode.com/problems/min-stack/)        | [最小栈](https://leetcode-cn.com/problems/min-stack/)        |
 | 00225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) |
 | 00232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |
