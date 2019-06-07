@@ -337,7 +337,7 @@
 | 00401 | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) |
 | 00461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |
 | 00477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) |
-| 00762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [二进制中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/) |
+| 00762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/) |
 
 ## 数学
 
