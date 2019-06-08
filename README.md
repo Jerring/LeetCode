@@ -30,6 +30,7 @@
 | 00083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |
 | 00086 | [Partition List](https://leetcode.com/problems/partition-list/) | [分隔链表](https://leetcode-cn.com/problems/partition-list/) |
 | 00092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) |
+| 00138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) |
 | 00141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) |
 | 00142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |
 | 00147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) |
