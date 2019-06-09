@@ -266,6 +266,7 @@
 | 00309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
 | 00322 | [Coin Change](https://leetcode.com/problems/coin-change/)    | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    |
 | 00329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) |
+| 00338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) |
 | 00343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [整数拆分](https://leetcode-cn.com/problems/integer-break/)  |
 | 00354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) |
 | 00376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/) |
