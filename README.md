@@ -51,6 +51,7 @@
 | 00155 | [Min Stack](https://leetcode.com/problems/min-stack/)        | [最小栈](https://leetcode-cn.com/problems/min-stack/)        |
 | 00225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) |
 | 00232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |
+| 00739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) |
 | 00844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [比较含退格的字符](https://leetcode-cn.com/problems/backspace-string-compare/) |
 
 ## 滑动窗口
