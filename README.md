@@ -311,6 +311,7 @@
 | 00690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/) |
 | 00695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |
 | 00733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [图像渲染](https://leetcode-cn.com/problems/flood-fill/)     |
+| 00784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) |
 | 01034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [边框着色](https://leetcode-cn.com/problems/coloring-a-border/) |
 
 ## 并查集
