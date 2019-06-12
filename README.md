@@ -276,6 +276,7 @@
 | 00474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)  |
 | 00494 | [Target Sum](https://leetcode.com/problems/target-sum/)      | [目标和](https://leetcode-cn.com/problems/target-sum/)       |
 | 00714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |
+| 00931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/) |
 
 ## 分治
 
