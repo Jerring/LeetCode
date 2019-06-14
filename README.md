@@ -158,6 +158,7 @@
 | 00344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) |
 | 00383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)    | [赎金信](https://leetcode-cn.com/problems/ransom-note/)      |
 | 00387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [字符串中第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) |
+| 00415 | [Add Strings](https://leetcode.com/problems/add-strings/)    | [字符串相加](https://leetcode-cn.com/problems/add-strings/)  |
 | 00434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) |
 | 00443 | [String Compression](https://leetcode.com/problems/string-compression/) | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) |
 | 00557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) |
