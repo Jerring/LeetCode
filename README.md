@@ -151,6 +151,7 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) |
+| 00067 | [Add Binary](https://leetcode.com/problems/add-binary/)      | [二进制求和](https://leetcode-cn.com/problems/add-binary/)   |
 | 00151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) |
 | 00242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) |
 | 00344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) |
