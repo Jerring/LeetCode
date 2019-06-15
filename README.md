@@ -200,6 +200,7 @@
 | 00235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | 00236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
 | 00297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |
+| 00331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) |
 | 00337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) |
 | 00404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) |
 | 00437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)  | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) |
