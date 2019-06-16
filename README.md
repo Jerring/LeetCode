@@ -153,6 +153,7 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) |
 | 00014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) |
+| 00043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) |
 | 00058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) |
 | 00067 | [Add Binary](https://leetcode.com/problems/add-binary/)      | [二进制求和](https://leetcode-cn.com/problems/add-binary/)   |
 | 00151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) |
