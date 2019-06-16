@@ -151,6 +151,7 @@
 
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) |
 | 00006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) |
 | 00014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) |
 | 00043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) |
