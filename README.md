@@ -267,6 +267,7 @@
 | 00091 | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [解码方法](https://leetcode-cn.com/problems/decode-ways/)    |
 | 00095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) |
 | 00096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) |
+| 00115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) |
 | 00120 | [Triangle](https://leetcode.com/problems/triangle/)          | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) |
 | 00121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
 | 00139 | [Word Break](https://leetcode.com/problems/word-break/)      | [单词拆分](https://leetcode-cn.com/problems/word-break/)     |
@@ -325,7 +326,7 @@
 | 00216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) |
 | 00257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) |
 | 00417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) |
-| 00542 | [01 Matrix](https://leetcode.com/problems/01-matrix/)     | [01 矩阵](https://leetcode-cn.com/problems/01-matrix/)       |
+| 00542 | [01 Matrix](https://leetcode.com/problems/01-matrix/)        | [01 矩阵](https://leetcode-cn.com/problems/01-matrix/)       |
 | 00690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/) |
 | 00695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |
 | 00733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [图像渲染](https://leetcode-cn.com/problems/flood-fill/)     |
