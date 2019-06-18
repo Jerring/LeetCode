@@ -9,7 +9,7 @@ public class LeetCode_00777 {
         }
         int i = 0, j = 0;
         while (true) {
-            // 跳过非空字符
+            // 跳过 X
             while (i < start.length() && start.charAt(i) == 'X') {
                 ++i;
             }
