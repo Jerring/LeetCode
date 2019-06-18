@@ -374,9 +374,10 @@
 
 ## 脑筋急转弯
 
-| #     | Link                                                | 链接                                                  |
-| ----- | --------------------------------------------------- | ----------------------------------------------------- |
-| 00292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) |
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00292 | [Nim Game](https://leetcode.com/problems/nim-game/)          | [Nim游戏](https://leetcode-cn.com/problems/nim-game/)        |
+| 01033  | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) |
 
 ## 算法实现
 
