@@ -3,7 +3,7 @@ package com.github.jerring.leetcode;
 public class LeetCode_00777 {
 
     public boolean canTransform(String start, String end) {
-        // 长度不等肯定不相等
+        // 长度不等肯定不能转换
         if (start.length() != end.length()) {
             return false;
         }
