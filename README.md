@@ -278,7 +278,6 @@
 | 00300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) |
 | 00303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) |
 | 00309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |
-| 00319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/)  |
 | 00322 | [Coin Change](https://leetcode.com/problems/coin-change/)    | [零钱兑换](https://leetcode-cn.com/problems/coin-change/)    |
 | 00329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) |
 | 00338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [比特位计数](https://leetcode-cn.com/problems/counting-bits/) |
@@ -377,7 +376,8 @@
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00292 | [Nim Game](https://leetcode.com/problems/nim-game/)          | [Nim游戏](https://leetcode-cn.com/problems/nim-game/)        |
-| 01033  | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) |
+| 00319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/)  |
+| 01033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) |
 
 ## 算法实现
 
