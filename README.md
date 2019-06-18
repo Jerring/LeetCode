@@ -377,6 +377,7 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00292 | [Nim Game](https://leetcode.com/problems/nim-game/)          | [Nim游戏](https://leetcode-cn.com/problems/nim-game/)        |
 | 00319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/)  |
+| 00777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | [在LR字符串中交换相邻字符](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string/) |
 | 01033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) |
 
 ## 算法实现
