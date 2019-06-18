@@ -325,6 +325,7 @@
 | 00216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/) |
 | 00257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) |
 | 00417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow/) |
+| 00542 | [01 Matrix](https://leetcode.com/problems/01-matrix/)     | [01 矩阵](https://leetcode-cn.com/problems/01-matrix/)       |
 | 00690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/) |
 | 00695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) |
 | 00733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [图像渲染](https://leetcode-cn.com/problems/flood-fill/)     |
