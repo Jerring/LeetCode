@@ -270,6 +270,7 @@
 | 00115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) |
 | 00120 | [Triangle](https://leetcode.com/problems/triangle/)          | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) |
 | 00121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
+| 00132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) |
 | 00139 | [Word Break](https://leetcode.com/problems/word-break/)      | [单词拆分](https://leetcode-cn.com/problems/word-break/)     |
 | 00198 | [House Robber](https://leetcode.com/problems/house-robber/)  | [打家劫舍](https://leetcode-cn.com/problems/house-robber/)   |
 | 00213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/) |
