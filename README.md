@@ -293,6 +293,7 @@
 | 00413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) |
 | 00416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) |
 | 00474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)  |
+| 00486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [预测赢家](https://leetcode-cn.com/problems/predict-the-winner/) |
 | 00494 | [Target Sum](https://leetcode.com/problems/target-sum/)      | [目标和](https://leetcode-cn.com/problems/target-sum/)       |
 | 00526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/) |
 | 00576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/) |
