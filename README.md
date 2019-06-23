@@ -170,6 +170,7 @@
 | 00415 | [Add Strings](https://leetcode.com/problems/add-strings/)    | [字符串相加](https://leetcode-cn.com/problems/add-strings/)  |
 | 00434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) |
 | 00443 | [String Compression](https://leetcode.com/problems/string-compression/) | [压缩字符串](https://leetcode-cn.com/problems/string-compression/) |
+| 00556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii/) |
 | 00557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) |
 | 00709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) |
 | 00890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [查找和替换模式](https://leetcode-cn.com/problems/find-and-replace-pattern/) |
