@@ -12,7 +12,7 @@ public class LeetCode_00556 {
         while (i >= 0 && cs[i] >= cs[i + 1]) {
             --i;
         }
-        // 不存在下一个更大元素，数组中每一位从左往右递减
+        // 不存在下一个排列
         if (i < 0) {
             return -1;
         }
