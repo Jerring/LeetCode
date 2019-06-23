@@ -17,25 +17,40 @@ public class LeetCode_00074 {
 //        return false;
 //    }
 
+//    public boolean searchMatrix(int[][] matrix, int target) {
+//        if (matrix.length == 0) {
+//            return false;
+//        }
+//        int m = matrix.length;
+//        int n = matrix[0].length;
+//        int lo = 0;
+//        int hi = m * n - 1;
+//        while (lo <= hi) {
+//            int mid = lo + (hi - lo) / 2;
+//            int val = matrix[mid / n][mid % n];
+//            if (val < target) {
+//                lo = mid + 1;
+//            } else if (val > target) {
+//                hi = mid - 1;
+//            } else {
+//                return true;
+//            }
+//        }
+//        return false;
+//    }
+
     public boolean searchMatrix(int[][] matrix, int target) {
-        if (matrix.length == 0) {
+        if (matrix.length == 0 || matrix[0].length == 0) {
             return false;
         }
         int m = matrix.length;
         int n = matrix[0].length;
-        int lo = 0;
-        int hi = m * n - 1;
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-            int val = matrix[mid / n][mid % n];
-            if (val < target) {
-                lo = mid + 1;
-            } else if (val > target) {
-                hi = mid - 1;
-            } else {
-                return true;
-            }
+        int l = 0, r = m * n - 1;
+        while (l < r) {
+            int mid = l + r >>> 1;
+            if (matrix[mid / n][mid % n] >= target) r = mid;
+            else l = mid + 1;
         }
-        return false;
+        return matrix[r / n][r % n] == target;
     }
 }
