@@ -36,7 +36,7 @@ public class LeetCode_00503 {
                 stack.push(i);
             }
         }
-        // 栈中剩余的元素就是不存在比当前元素大的下一个元素的元素的索引
+        // 栈中剩余的索引就是那些不存在下一个更大元素的元素的索引
         while (!stack.isEmpty()) {
             res[stack.pop()] = -1;
         }
