@@ -4,18 +4,14 @@ public class LeetCode_00153 {
 
     public int findMin(int[] nums) {
         // 可能的上下限
-        int lo = 0;
-        int hi = nums.length - 1;
+        int l = 0, r = nums.length - 1;
         // 缩小区间直至只有一个元素
-        while (lo < hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (nums[mid] > nums[hi]) {     // 说明 mid 及之前的元素都不可能是最小值
-                lo = mid + 1;
-            } else {                        // 说明 mid 之后的元素都不可能是最小值
-                hi = mid;
-            }
+        while (l < r) {
+            int mid = l + r >>> 1;
+            if (nums[mid] <= nums[r]) r = mid;  // 说明 mid 之后的元素都不可能是最小值
+            else l = mid + 1;                   // 说明 mid 及之前的元素都不可能是最小值
         }
-        return nums[lo];
+        return nums[r];
     }
 
 //    public int findMin(int[] nums) {
