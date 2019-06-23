@@ -14,21 +14,35 @@ public class LeetCode_00154 {
 //        int mid = lo + (hi - lo) / 2;
 //        return Math.min(findMin(nums, lo, mid), findMin(nums, mid + 1, hi));
 //    }
+//
+//    public int findMin(int[] nums) {
+//        int lo = 0;
+//        int hi = nums.length - 1;
+//        // 最小值的范围在 [0, nums.length - 1] 中。lo == hi 时，lo 就是最小值所在处。
+//        while (lo < hi) {
+//            int mid = lo + (hi - lo) / 2;
+//            if (nums[mid] < nums[hi]) {
+//                hi = mid;
+//            } else if (nums[mid] > nums[hi]) {
+//                lo = mid + 1;
+//            } else {
+//                --hi;
+//            }
+//        }
+//        return nums[lo];
+//    }
 
     public int findMin(int[] nums) {
-        int lo = 0;
-        int hi = nums.length - 1;
-        // 最小值的范围在 [0, nums.length - 1] 中。lo == hi 时，lo 就是最小值所在处。
-        while (lo < hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (nums[mid] < nums[hi]) {
-                hi = mid;
-            } else if (nums[mid] > nums[hi]) {
-                lo = mid + 1;
-            } else {
-                --hi;
-            }
+        int l = 0, r = nums.length - 1;
+        // 删掉末尾与开头相等的部分
+        while (l < r && nums[r] == nums[l]) {
+            --r;
         }
-        return nums[lo];
+        while (l < r) {
+            int mid = l + r >>> 1;
+            if (nums[mid] <= nums[r]) r = mid;
+            else l = mid + 1;
+        }
+        return nums[r];
     }
 }
