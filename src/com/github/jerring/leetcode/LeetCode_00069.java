@@ -50,16 +50,12 @@ public class LeetCode_00069 {
 //    }
 
     public int mySqrt(int x) {
-        int lo = 1;
-        int hi = x;
-        while (lo <= hi) {
-            int mid = (lo + hi) >>> 1;
-            if (mid > x / mid) {
-                hi = mid - 1;
-            } else {
-                lo = mid + 1;
-            }
+        int l = 1, r = x;
+        while (l < r) {
+            int mid = l + r + 1 >>> 1;
+            if (1L * mid * mid <= x) l = mid;
+            else r = mid - 1;
         }
-        return lo - 1;
+        return r;
     }
 }
