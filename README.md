@@ -89,6 +89,7 @@
 | 00205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) |
 | 00219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/) |
 | 00220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/) |
+| 00274 | [H-Index](https://leetcode.com/problems/h-index/)            | [H指数](https://leetcode-cn.com/problems/h-index/)           |
 | 00290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)  | [单词模式](https://leetcode-cn.com/problems/word-pattern/)   |
 | 00299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/) |
 | 00409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) |
