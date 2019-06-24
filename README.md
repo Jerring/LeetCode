@@ -13,6 +13,7 @@
 | 00162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) |
 | 00240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) |
 | 00278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) |
+| 00374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) |
 | 00540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) |
 | 00744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) |
 
