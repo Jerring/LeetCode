@@ -49,19 +49,11 @@ public class LeetCode_00042 {
         int leftMax = 0, rightMax = 0;
         while (i < j) {
             if (height[i] < height[j]) {
-                if (height[i] > leftMax) {
-                    leftMax = height[i];
-                } else {
-                    res += leftMax - height[i];
-                }
-                ++i;
+                leftMax = Math.max(leftMax, height[i]);
+                res += leftMax - height[i++];
             } else {
-                if (height[j] > rightMax) {
-                    rightMax = height[j];
-                } else {
-                    res += rightMax - height[j];
-                }
-                --j;
+                rightMax = Math.max(rightMax, height[j]);
+                res += rightMax - height[j--];
             }
         }
         return res;
