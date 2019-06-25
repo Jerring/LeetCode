@@ -17,6 +17,7 @@
 | 00374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) |
 | 00441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) |
 | 00540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) |
+| 00704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [二分查找](https://leetcode-cn.com/problems/binary-search/)  |
 | 00744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) |
 | 00852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [山脉数组的封顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) |
 | 00878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [第 N 个神奇数字](https://leetcode-cn.com/problems/nth-magical-number/) |
