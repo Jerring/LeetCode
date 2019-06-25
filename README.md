@@ -18,6 +18,7 @@
 | 00441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) |
 | 00540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) |
 | 00744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) |
+| 00878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [第 N 个神奇数字](https://leetcode-cn.com/problems/nth-magical-number/) |
 
 ## 链表
 
