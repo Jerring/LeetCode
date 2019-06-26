@@ -275,6 +275,7 @@
 | 00646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/) |
 | 00665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) |
 | 00763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) |
+| 00860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) |
 
 ## 动态规划
 
