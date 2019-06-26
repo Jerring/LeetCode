@@ -6,14 +6,14 @@ import java.util.Deque;
 public class LeetCode_00456 {
 
     public boolean find132pattern(int[] nums) {
-        int ak = Integer.MIN_VALUE;
+        int aj = Integer.MIN_VALUE;
         Deque<Integer> stack = new ArrayDeque<>();
         for (int i = nums.length - 1; i >= 0; --i) {
-            if (nums[i] < ak) {
+            if (nums[i] < aj) {
                 return true;
             }
             while (!stack.isEmpty() && nums[i] > stack.peek()) {
-                ak = stack.pop();
+                aj = stack.pop();
             }
             stack.push(nums[i]);
         }
