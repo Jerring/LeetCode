@@ -12,15 +12,15 @@ public class LeetCode_00084 {
         int res = 0;
         for (int i = 0; i < heights.length; ++i) {
             while (stack.peek() != -1 && heights[i] < heights[stack.peek()]) {
-                int cur = stack.pop();
-                res = Math.max(res, heights[cur] * (i - stack.peek() - 1));
+                int top = stack.pop();
+                res = Math.max(res, heights[top] * (i - stack.peek() - 1));
             }
             stack.push(i);
         }
         // 结算栈中剩余的元素
         while (stack.peek() != -1) {
-            int cur = stack.pop();
-            res = Math.max(res, heights[cur] * (heights.length - stack.peek() - 1));
+            int top = stack.pop();
+            res = Math.max(res, heights[top] * (heights.length - stack.peek() - 1));
         }
         return res;
     }
