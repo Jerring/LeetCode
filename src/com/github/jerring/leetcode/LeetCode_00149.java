@@ -9,8 +9,8 @@ public class LeetCode_00149 {
         int n = points.length;
         int res = 0;
         for (int i = 0; i < n; ++i) {
-            // 同一直线上的点的个数（不包含坐标相同的点，坐标相同的点单独计算）
             Map<Slope, Integer> map = new HashMap<>();
+            // 同一直线上的点的个数（不包含坐标相同的点，坐标相同的点单独计算）
             int duplicates = 0;
             for (int j = i + 1; j < n; ++j) {
                 int x = points[i][0] - points[j][0];
