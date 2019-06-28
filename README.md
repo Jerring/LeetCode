@@ -109,6 +109,7 @@
 | 00463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) |
 | 00500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)  | [键盘行](https://leetcode-cn.com/problems/keyboard-row/)     |
 | 00525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [连续数组](https://leetcode-cn.com/problems/contiguous-array/) |
+| 00554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)      | [砖墙](https://leetcode-cn.com/problems/brick-wall/)         |
 | 00560 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) |
 | 00575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [分糖果](https://leetcode-cn.com/problems/distribute-candies/) |
 | 00594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) |
