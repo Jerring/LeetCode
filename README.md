@@ -96,6 +96,7 @@
 | 00001 | [Two Sum](https://leetcode.com/problems/two-sum/)            | [两数之和](https://leetcode-cn.com/problems/two-sum/)        |
 | 00036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) |
 | 00049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) |
+| 00128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) |
 | 00149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/) |
 | 00202 | [Happy Number](https://leetcode.com/problems/happy-number/)  | [快乐数](https://leetcode-cn.com/problems/happy-number/)     |
 | 00205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/) |
