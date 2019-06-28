@@ -23,7 +23,7 @@ public class LeetCode_00149 {
                     map.put(slope, map.getOrDefault(slope, 1) + 1);
                 }
             }
-            // 用坐标相同的点的个数更新最大值
+            // 用与定点重合的点的个数更新最大值
             res = Math.max(res, duplicates + 1);
             res = Math.max(res, map.values().stream().max(Integer::compareTo).orElse(0) + duplicates);
         }
