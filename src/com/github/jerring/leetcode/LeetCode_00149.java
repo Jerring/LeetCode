@@ -13,11 +13,11 @@ public class LeetCode_00149 {
             Map<Slope, Integer> map = new HashMap<>();
             int duplicates = 0;
             for (int j = i + 1; j < n; ++j) {
-                if (points[i][0] == points[j][0] && points[i][1] == points[j][1]) {
+                int x = points[i][0] - points[j][0];
+                int y = points[i][1] - points[j][1];
+                if (x == 0 && y == 0) {
                     ++duplicates;
                 } else {
-                    int x = points[i][0] - points[j][0];
-                    int y = points[i][1] - points[j][1];
                     int g = gcd(x, y);
                     Slope slope = new Slope(x / g, y / g);
                     map.put(slope, map.getOrDefault(slope, 1) + 1);
