@@ -122,7 +122,7 @@
 | 00771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/) |
 | 00748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [最短完整词](https://leetcode-cn.com/problems/shortest-completing-word/) |
 | 01002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |
-| 1094  | [Car Pooling](https://leetcode.com/problems/car-pooling/)    | [拼车](https://leetcode-cn.com/problems/car-pooling/)        |
+| 01094 | [Car Pooling](https://leetcode.com/problems/car-pooling/)    | [拼车](https://leetcode-cn.com/problems/car-pooling/)        |
 
 ## 数组
 
@@ -410,6 +410,7 @@
 | 00009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |
 | 00263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)    | [丑数](https://leetcode-cn.com/problems/ugly-number/)        |
 | 00326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [3的幂](https://leetcode-cn.com/problems/power-of-three/)    |
+| 01093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [大样本统计](https://leetcode-cn.com/problems/statistics-from-a-large-sample/) |
 
 ## 脑筋急转弯
 
