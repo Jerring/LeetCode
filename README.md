@@ -105,6 +105,7 @@
 | 00274 | [H-Index](https://leetcode.com/problems/h-index/)            | [H指数](https://leetcode-cn.com/problems/h-index/)           |
 | 00290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)  | [单词模式](https://leetcode-cn.com/problems/word-pattern/)   |
 | 00299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/) |
+| 00355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [设计推特](https://leetcode-cn.com/problems/design-twitter/) |
 | 00409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) |
 | 00447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/) |
 | 00454 | [4Sum II](https://leetcode.com/problems/4sum-ii/)            | [四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)     |
