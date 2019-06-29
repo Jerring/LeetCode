@@ -370,6 +370,7 @@
 | 00733 | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [图像渲染](https://leetcode-cn.com/problems/flood-fill/)     |
 | 00784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/) |
 | 01034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [边框着色](https://leetcode-cn.com/problems/coloring-a-border/) |
+| 01091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [二进制矩阵中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/) |
 
 ## 并查集
 
