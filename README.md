@@ -416,6 +416,7 @@
 | 00458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/)        | [可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/)    |
 | 00462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [最少移动次数使数组元素相等 II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/) |
 | 00650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/) |
+| 00829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [连续整数求和](https://leetcode-cn.com/problems/consecutive-numbers-sum/) |
 | 01093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [大样本统计](https://leetcode-cn.com/problems/statistics-from-a-large-sample/) |
 
 ## 脑筋急转弯
