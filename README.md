@@ -410,6 +410,7 @@
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 00007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) |
 | 00009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |
+| 00172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) |
 | 00223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [矩形面积](https://leetcode-cn.com/problems/rectangle-area/) |
 | 00263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)    | [丑数](https://leetcode-cn.com/problems/ugly-number/)        |
 | 00326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [3的幂](https://leetcode-cn.com/problems/power-of-three/)    |
