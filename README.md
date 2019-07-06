@@ -135,6 +135,7 @@
 | 00026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) |
 | 00027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [移除元素](https://leetcode-cn.com/problems/remove-element/) |
 | 00031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) |
+| 00048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [旋转图像](https://leetcode-cn.com/problems/rotate-image/)   |
 | 00054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)  |
 | 00056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [合并区间](https://leetcode-cn.com/problems/merge-intervals/) |
 | 00059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) |
