@@ -424,6 +424,7 @@
 | 00829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [连续整数求和](https://leetcode-cn.com/problems/consecutive-numbers-sum/) |
 | 00891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/) | [子序列宽度之和](https://leetcode-cn.com/problems/sum-of-subsequence-widths/) |
 | 01093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [大样本统计](https://leetcode-cn.com/problems/statistics-from-a-large-sample/) |
+| 01103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/) |
 
 ## 脑筋急转弯
 
