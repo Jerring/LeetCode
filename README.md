@@ -291,6 +291,7 @@
 | 00665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) |
 | 00763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) |
 | 00860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) |
+| 01090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [受标签影响的最大值](https://leetcode-cn.com/problems/largest-values-from-labels/) |
 
 ## 动态规划
 
