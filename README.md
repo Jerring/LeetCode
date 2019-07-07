@@ -168,6 +168,7 @@
 | 00349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) |
 | 00350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) |
 | 00532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [数组中的K-diff数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/) |
+| 00611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/) |
 | 00632 | [Smallest Range](https://leetcode.com/problems/smallest-range/) | [最小区间](https://leetcode-cn.com/problems/smallest-range/) |
 | 00633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/) |
 | 00845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/) |
