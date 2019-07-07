@@ -13,8 +13,7 @@ public class LeetCode_00033 {
 //            if (nums[lo] <= nums[mid]) {    // lo 和 mid 在同一边
 //                if (target >= nums[lo] && target < nums[mid]) {
 //                    hi = mid - 1;
-//                }
-//                else {
+//                } else {
 //                    lo = mid + 1;
 //                }
 //            } else {                        // lo 和 mid 不在同一边
