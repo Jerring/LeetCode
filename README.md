@@ -201,6 +201,7 @@
 | 00557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) |
 | 00709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/) |
 | 00890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [查找和替换模式](https://leetcode-cn.com/problems/find-and-replace-pattern/) |
+| 01078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/) |
 
 ## 二叉树
 
