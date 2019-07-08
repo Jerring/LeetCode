@@ -52,6 +52,7 @@
 | 00206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) |
 | 00234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) |
 | 00237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [删除链表中的结点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) |
+| 00328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) |
 | 00876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |
 
 ## 栈
