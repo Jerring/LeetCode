@@ -72,6 +72,7 @@
 | 00503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [下一更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) |
 | 00739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) |
 | 00844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [比较含退格的字符](https://leetcode-cn.com/problems/backspace-string-compare/) |
+| 01019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/) |
 
 ## 滑动窗口
 
@@ -450,4 +451,3 @@
 | 00380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) |
 | 00432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/) |
 | 00707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [设计链表](https://leetcode-cn.com/problems/design-linked-list/) |
-
