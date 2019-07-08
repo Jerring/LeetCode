@@ -45,6 +45,7 @@
 | 00138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) |
 | 00141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) |
 | 00142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) |
+| 00143 | [Reorder List](https://leetcode.com/problems/reorder-list/)  | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   |
 | 00147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) |
 | 00148 | [Sort List](https://leetcode.com/problems/sort-list/)        | [排序链表](https://leetcode-cn.com/problems/sort-list/)      |
 | 00160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) |
