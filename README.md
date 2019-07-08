@@ -73,6 +73,7 @@
 | 00739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) |
 | 00844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [比较含退格的字符](https://leetcode-cn.com/problems/backspace-string-compare/) |
 | 01019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/) |
+| 01021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/) |
 
 ## 滑动窗口
 
