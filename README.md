@@ -449,3 +449,5 @@
 | 00208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [实现 Trie（前缀树）](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) |
 | 00380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/) |
 | 00432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) | [全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure/) |
+| 00707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [设计链表](https://leetcode-cn.com/problems/design-linked-list/) |
+
