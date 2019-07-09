@@ -87,6 +87,7 @@
 | 00076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |
 | 00209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) |
 | 00239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |
+| 00424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) |
 | 00438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) |
 | 00567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) |
 
