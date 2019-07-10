@@ -159,6 +159,7 @@
 | 00283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)    | [移动零](https://leetcode-cn.com/problems/move-zeroes/)      |
 | 00287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) |
 | 00442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) |
+| 00485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) |
 | 00581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) |
 | 00724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) |
 | 00905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) |
