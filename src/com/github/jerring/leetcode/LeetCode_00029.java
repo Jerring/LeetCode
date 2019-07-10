@@ -18,6 +18,7 @@ public class LeetCode_00029 {
         int res = 0;
         while (p >= 1) {
             if (x <= y) {
+                x -= y;
                 res += p;
             }
             y >>= 1;
