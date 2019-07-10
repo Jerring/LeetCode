@@ -90,6 +90,7 @@
 | 00424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) |
 | 00438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) |
 | 00567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) |
+| 01004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) |
 
 ## 堆
 
