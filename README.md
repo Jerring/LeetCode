@@ -326,6 +326,7 @@
 | 00096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) |
 | 00115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) |
 | 00118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) |
+| 00119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) |
 | 00120 | [Triangle](https://leetcode.com/problems/triangle/)          | [三角形最小路径和](https://leetcode-cn.com/problems/triangle/) |
 | 00121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) |
 | 00132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [分割回文串 II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) |
