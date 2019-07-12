@@ -279,6 +279,7 @@
 | 00654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/) |
 | 00687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) |
 | 00700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) |
+| 00701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) |
 | 00783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [二叉搜索树结点的最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |
 | 00872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) |
 | 00897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) |
