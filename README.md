@@ -258,6 +258,7 @@
 | 00404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/) |
 | 00437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)  | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) |
 | 00449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [序列化和反序列化二叉搜索树](https://leetcode-cn.com/problems/serialize-and-deserialize-bst/) |
+| 00450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/) |
 | 00508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [出现次数最多的子树元素和](https://leetcode-cn.com/problems/most-frequent-subtree-sum/) |
 | 00513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value/) |
 | 00515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) |
