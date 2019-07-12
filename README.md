@@ -269,6 +269,7 @@
 | 00559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) |
 | 00563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/) |
 | 00572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |
+| 00589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) |
 | 00606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) |
 | 00617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) |
 | 00637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) |
