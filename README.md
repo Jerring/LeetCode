@@ -277,6 +277,7 @@
 | 00652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/) |
 | 00653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) |
 | 00654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/) |
+| 00669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) |
 | 00687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/) |
 | 00700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) |
 | 00701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) |
