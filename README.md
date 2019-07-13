@@ -288,6 +288,7 @@
 | 00938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) |
 | 00958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/) |
 | 00965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [单值二叉树](https://leetcode-cn.com/problems/univalued-binary-tree/) |
+| 00987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [二叉树的垂序遍历](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/) |
 | 01022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [从根到叶的二进制数之和](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers/) |
 | 01026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [节点与其祖先之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor/) |
 | 01110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [删点成林](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/) |
