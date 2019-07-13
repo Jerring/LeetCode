@@ -282,6 +282,7 @@
 | 00700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) |
 | 00701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) |
 | 00783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [二叉搜索树结点的最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) |
+| 00814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning/) |
 | 00872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/) |
 | 00897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) |
 | 00938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/) |
