@@ -373,6 +373,7 @@
 | 00714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |
 | 00746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |
 | 00931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/) |
+| 00978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) |
 
 ## 分治
 
