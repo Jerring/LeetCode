@@ -456,6 +456,7 @@
 | 00223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [矩形面积](https://leetcode-cn.com/problems/rectangle-area/) |
 | 00263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)    | [丑数](https://leetcode-cn.com/problems/ugly-number/)        |
 | 00326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [3的幂](https://leetcode-cn.com/problems/power-of-three/)    |
+| 00412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)        | [Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)     |
 | 00453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) |
 | 00458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/)        | [可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/)    |
 | 00462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [最少移动次数使数组元素相等 II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/) |
