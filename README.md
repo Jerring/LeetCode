@@ -60,7 +60,7 @@
 | 00817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [链表组件](https://leetcode-cn.com/problems/linked-list-components/) |
 | 00876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) |
 
-## 栈
+## 栈 / 队列
 
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -75,6 +75,7 @@
 | 00503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [下一更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) |
 | 00739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) |
 | 00844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [比较含退格的字符](https://leetcode-cn.com/problems/backspace-string-compare/) |
+| 00862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [和至少为 K 的最短子数组](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/) |
 | 01019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/) |
 | 01021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/) |
 
