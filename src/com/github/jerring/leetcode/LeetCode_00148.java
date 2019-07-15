@@ -52,6 +52,7 @@ public class LeetCode_00148 {
      * 时间复杂度：O(nlogn)
      * 空间复杂度：O(logn)
      * 不用额外创建数组，空间复杂度降低了，链表排序的最佳方法
+     *
      * @param head 待排序链表头结点
      * @return 排序后链表的头结点
      */
@@ -59,40 +60,28 @@ public class LeetCode_00148 {
         if (head == null || head.next == null) {
             return head;
         }
-        ListNode pre = null;
-        ListNode fast = head;
+        ListNode fast = head.next;
         ListNode slow = head;
         while (fast != null && fast.next != null) {
-            pre = slow;
             fast = fast.next.next;
             slow = slow.next;
         }
-        // 分割成两个链表
-        pre.next = null;
-        ListNode h1 = sortList(head);
-        ListNode h2 = sortList(slow);
-        return merge(h1, h2);
+        fast = slow.next;
+        slow.next = null;
+        ListNode a = sortList(head);
+        ListNode b = sortList(fast);
+        return mergeList(a, b);
     }
 
-    private ListNode merge(ListNode h1, ListNode h2) {
-        ListNode dummy = new ListNode(-1);
-        ListNode cur = dummy;
-        while (h1 != null && h2 != null) {
-            if (h1.val < h2.val) {
-                cur.next = h1;
-                h1 = h1.next;
-            } else {
-                cur.next = h2;
-                h2 = h2.next;
-            }
-            cur = cur.next;
+    private ListNode mergeList(ListNode a, ListNode b) {
+        if (a == null) return b;
+        if (b == null) return a;
+        if (a.val < b.val) {
+            a.next = mergeList(a.next, b);
+            return a;
+        } else {
+            b.next = mergeList(a, b.next);
+            return b;
         }
-        if (h1 != null) {
-            cur.next = h1;
-        }
-        if (h2 != null) {
-            cur.next = h2;
-        }
-        return dummy.next;
     }
 }
