@@ -7,7 +7,7 @@ public class LeetCode_00228 {
 
     public List<String> summaryRanges(int[] nums) {
         List<String> res = new ArrayList<>();
-        for (int i = 0, j = 1; i < nums.length; i = j, ++j) {
+        for (int i = 0, j = 1; i < nums.length; i = j++) {
             while (j < nums.length && nums[j] - nums[j - 1] == 1) {
                 ++j;
             }
