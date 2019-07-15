@@ -3,7 +3,9 @@ package com.github.jerring.leetcode;
 public class LeetCode_00092 {
 
     public ListNode reverseBetween(ListNode head, int m, int n) {
-        if (m == n) return head;
+        if (m == n) {
+            return head;
+        }
         ListNode dummy = new ListNode(0);
         dummy.next = head;
         // 得到左边链表的尾结点
