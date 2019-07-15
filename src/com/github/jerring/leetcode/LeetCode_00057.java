@@ -1,19 +1,11 @@
 package com.github.jerring.leetcode;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Comparator;
 import java.util.List;
 
 public class LeetCode_00057 {
 
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        Arrays.sort(intervals, new Comparator<int[]>() {
-            @Override
-            public int compare(int[] o1, int[] o2) {
-                return Integer.compare(o1[0], o2[0]);
-            }
-        });
         List<int[]> res = new ArrayList<>();
         boolean added = false;
         for (int[] interval : intervals) {
