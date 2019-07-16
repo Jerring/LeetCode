@@ -31,7 +31,7 @@ public class LeetCode_00227 {
                 }
             }
         }
-        while (!op.isEmpty()) {
+        if (!op.isEmpty()) {
             calc(op, num);
         }
         return num.peek();
