@@ -68,6 +68,7 @@
 | 00084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) |
 | 00150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) |
 | 00155 | [Min Stack](https://leetcode.com/problems/min-stack/)        | [最小栈](https://leetcode-cn.com/problems/min-stack/)        |
+| 00224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [基本计算器](https://leetcode-cn.com/problems/basic-calculator/) |
 | 00225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) |
 | 00232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |
 | 00456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)    | [132模式](https://leetcode-cn.com/problems/132-pattern/)     |
