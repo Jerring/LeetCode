@@ -48,40 +48,95 @@ public class LeetCode_00148 {
 //        q.val = tmp;
 //    }
 
+//    /**
+//     * 时间复杂度：O(nlogn)
+//     * 空间复杂度：O(logn)
+//     * 不用额外创建数组，空间复杂度降低了，链表排序的最佳方法
+//     *
+//     * @param head 待排序链表头结点
+//     * @return 排序后链表的头结点
+//     */
+//    public ListNode sortList(ListNode head) {
+//        if (head == null || head.next == null) {
+//            return head;
+//        }
+//        ListNode fast = head.next;
+//        ListNode slow = head;
+//        while (fast != null && fast.next != null) {
+//            fast = fast.next.next;
+//            slow = slow.next;
+//        }
+//        fast = slow.next;
+//        slow.next = null;
+//        ListNode a = sortList(head);
+//        ListNode b = sortList(fast);
+//        return mergeList(a, b);
+//    }
+//
+//    private ListNode mergeList(ListNode a, ListNode b) {
+//        if (a == null) return b;
+//        if (b == null) return a;
+//        if (a.val < b.val) {
+//            a.next = mergeList(a.next, b);
+//            return a;
+//        } else {
+//            b.next = mergeList(a, b.next);
+//            return b;
+//        }
+//    }
+
+
     /**
+     * 自底向上的归并排序
      * 时间复杂度：O(nlogn)
-     * 空间复杂度：O(logn)
-     * 不用额外创建数组，空间复杂度降低了，链表排序的最佳方法
+     * 空间复杂度：O(1)
      *
      * @param head 待排序链表头结点
      * @return 排序后链表的头结点
      */
     public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null) {
-            return head;
+        int n = 0;
+        for (ListNode p = head; p != null; p = p.next) {
+            ++n;
         }
-        ListNode fast = head.next;
-        ListNode slow = head;
-        while (fast != null && fast.next != null) {
-            fast = fast.next.next;
-            slow = slow.next;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        for (int i = 1; i < n; i <<= 1) {
+            ListNode cur = dummy;
+            for (int j = 0; j + i < n; j += i << 1) {
+                ListNode a = cur.next, b = cur.next;
+                for (int k = 0; k < i; ++k) {
+                    b = b.next;
+                }
+                int l = 0, r = 0;
+                while (l < i && r < i && b != null) {
+                    if (a.val < b.val) {
+                        cur.next = a;
+                        cur = a;
+                        a = a.next;
+                        ++l;
+                    } else {
+                        cur.next = b;
+                        cur = b;
+                        b = b.next;
+                        ++r;
+                    }
+                }
+                while (l < i) {
+                    cur.next = a;
+                    cur = a;
+                    a = a.next;
+                    ++l;
+                }
+                while (r < i && b != null) {
+                    cur.next = b;
+                    cur = b;
+                    b = b.next;
+                    ++r;
+                }
+                cur.next = b;
+            }
         }
-        fast = slow.next;
-        slow.next = null;
-        ListNode a = sortList(head);
-        ListNode b = sortList(fast);
-        return mergeList(a, b);
-    }
-
-    private ListNode mergeList(ListNode a, ListNode b) {
-        if (a == null) return b;
-        if (b == null) return a;
-        if (a.val < b.val) {
-            a.next = mergeList(a.next, b);
-            return a;
-        } else {
-            b.next = mergeList(a, b.next);
-            return b;
-        }
+        return dummy.next;
     }
 }
