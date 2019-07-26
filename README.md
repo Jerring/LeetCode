@@ -169,6 +169,7 @@
 | 00442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) |
 | 00485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) |
 | 00581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) |
+| 00674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) |
 | 00724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) |
 | 00905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) |
 | 00989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) |
