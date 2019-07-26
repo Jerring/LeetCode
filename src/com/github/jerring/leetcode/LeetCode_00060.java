@@ -44,7 +44,7 @@ public class LeetCode_00060 {
 //    }
 
     public String getPermutation(int n, int k) {
-        List<Integer> list = new ArrayList<>();
+        List<Integer> list = new ArrayList<>(n);
         for (int i = 1; i <= n; ++i) {
             list.add(i);
         }
