@@ -211,6 +211,7 @@
 | 00043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) |
 | 00058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) |
 | 00067 | [Add Binary](https://leetcode.com/problems/add-binary/)      | [二进制求和](https://leetcode-cn.com/problems/add-binary/)   |
+| 00071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [简化路径](https://leetcode-cn.com/problems/simplify-path/)  |
 | 00151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) |
 | 00165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) |
 | 00242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) |
