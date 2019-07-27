@@ -176,6 +176,7 @@
 | 01089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [复写零](https://leetcode-cn.com/problems/duplicate-zeros/)  |
 | 01109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) |
 | 01124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [表现良好的最长时间段](https://leetcode-cn.com/problems/longest-well-performing-interval/) |
+| 01128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) |
 
 ## 双指针
 
