@@ -80,6 +80,7 @@
 | 00862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [和至少为 K 的最短子数组](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/) |
 | 01019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/) |
 | 01021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/) |
+| 01047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) |
 
 ## 滑动窗口
 
