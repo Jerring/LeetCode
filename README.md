@@ -103,6 +103,7 @@
 | 00692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |
 | 00703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) |
 | 00857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [雇佣 K 名工人的最低成本](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/) |
+| 01046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [最后一块石头的重量](https://leetcode-cn.com/problems/last-stone-weight/) |
 
 ## 哈希表
 
