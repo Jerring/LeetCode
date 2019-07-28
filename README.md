@@ -392,6 +392,7 @@
 | 00746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |
 | 00931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/) |
 | 00978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) |
+| 01048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/) |
 
 ## 分治
 
