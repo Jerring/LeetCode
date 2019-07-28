@@ -393,6 +393,7 @@
 | 00931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/) |
 | 00978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) |
 | 01048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/) |
+| 01049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) |
 
 ## 分治
 
