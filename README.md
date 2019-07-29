@@ -219,6 +219,7 @@
 | 00151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) |
 | 00165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/) |
 | 00242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) |
+| 00273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/) |
 | 00344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) |
 | 00383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)    | [赎金信](https://leetcode-cn.com/problems/ransom-note/)      |
 | 00387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [字符串中第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) |
