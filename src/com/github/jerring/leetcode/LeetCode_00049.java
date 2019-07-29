@@ -48,47 +48,15 @@ public class LeetCode_00049 {
 //        return sb.toString();
 //    }
 
-//    public List<List<String>> groupAnagrams(String[] strs) {
-//        List<List<String>> res = new ArrayList<>();
-//        if (strs.length == 0) {
-//            return res;
-//        }
-//        Map<Integer, List<String>> map = new HashMap<>();
-//        for (String s : strs) {
-//            int id = getID(s);
-//            List<String> list;
-//            if (map.containsKey(id)) {
-//                list = map.get(id);
-//            } else {
-//                list = new ArrayList<>();
-//                res.add(list);
-//                map.put(id, list);
-//            }
-//            list.add(s);
-//        }
-//        return res;
-//    }
-//
-//    private int getID(String s) {
-//        int[] cnt = new int[26];
-//        for (char c : s.toCharArray()) {
-//            ++cnt[c - 'a'];
-//        }
-//        return Arrays.hashCode(cnt);
-//    }
-
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> res = new ArrayList<>();
         if (strs.length == 0) {
-            return res;
+            return new ArrayList<>();
         }
         Map<Integer, List<String>> map = new HashMap<>();
         for (String s : strs) {
             int id = getID(s);
-            if (!map.containsKey(id)) {
-                map.put(id, new ArrayList<>());
-            }
-            map.get(id).add(s);
+            List<String> list = map.computeIfAbsent(id, k -> new ArrayList<>());
+            list.add(s);
         }
         return new ArrayList<>(map.values());
     }
