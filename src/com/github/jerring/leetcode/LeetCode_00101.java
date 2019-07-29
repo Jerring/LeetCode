@@ -9,13 +9,43 @@ public class LeetCode_00101 {
         return root == null || isSymmetric(root.left, root.right);
     }
 
-    public boolean isSymmetric(TreeNode left, TreeNode right) {
+    private boolean isSymmetric(TreeNode left, TreeNode right) {
         // left 和 null 均为 null 时 返回 true，仅有一个返回 false
         if (left == null || right == null) {
             return left == right;
         }
         return left.val == right.val && isSymmetric(left.left, right.right) && isSymmetric(left.right, right.left);
     }
+
+//    // 迭代（左子树左中右，右子树右中左）
+//    public boolean isSymmetric(TreeNode root) {
+//        if (root == null) {
+//            return true;
+//        }
+//        Deque<TreeNode> s1 = new ArrayDeque<>();
+//        Deque<TreeNode> s2 = new ArrayDeque<>();
+//        TreeNode left = root.left;
+//        TreeNode right = root.right;
+//        while (!s1.isEmpty() || left != null || right != null) {
+//            while (left != null && right != null) {
+//                s1.push(left);
+//                s2.push(right);
+//                left = left.left;
+//                right = right.right;
+//            }
+//            if (left != null || right != null) {
+//                return false;
+//            }
+//            left = s1.pop();
+//            right = s2.pop();
+//            if (left.val != right.val) {
+//                return false;
+//            }
+//            left = left.right;
+//            right = right.left;
+//        }
+//        return true;
+//    }
 
     // 迭代版本（运用栈）
 //    public boolean isSymmetric(TreeNode root) {
