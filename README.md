@@ -142,6 +142,7 @@
 | 00930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) |
 | 01002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |
 | 01094 | [Car Pooling](https://leetcode.com/problems/car-pooling/)    | [拼车](https://leetcode-cn.com/problems/car-pooling/)        |
+| 01138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [字母板上的路径](https://leetcode-cn.com/problems/alphabet-board-path/) |
 
 ## 数组
 
