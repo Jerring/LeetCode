@@ -396,6 +396,7 @@
 | 00978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) |
 | 01048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/) |
 | 01049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) |
+| 01137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [第 N 个泰波那契](https://leetcode-cn.com/problems/n-th-tribonacci-number/) |
 
 ## 分治
 
