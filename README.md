@@ -398,6 +398,7 @@
 | 01048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [最长字符串链](https://leetcode-cn.com/problems/longest-string-chain/) |
 | 01049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/) |
 | 01137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) |
+| 01139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [最大的以 1 为边界的正方形](https://leetcode-cn.com/problems/largest-1-bordered-square/) |
 
 ## 分治
 
