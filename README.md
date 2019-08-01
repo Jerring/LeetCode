@@ -178,6 +178,7 @@
 | 00724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) |
 | 00905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/) |
 | 00989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) |
+| 01053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [交换一次的先前排列](https://leetcode-cn.com/problems/previous-permutation-with-one-swap/) |
 | 01089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [复写零](https://leetcode-cn.com/problems/duplicate-zeros/)  |
 | 01109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) |
 | 01124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [表现良好的最长时间段](https://leetcode-cn.com/problems/longest-well-performing-interval/) |
