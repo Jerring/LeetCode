@@ -142,6 +142,7 @@
 | 00748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [最短完整词](https://leetcode-cn.com/problems/shortest-completing-word/) |
 | 00930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) |
 | 01002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [查找常用字符](https://leetcode-cn.com/problems/find-common-characters/) |
+| 01072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [按列翻转得到最大值等行数](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows/) |
 | 01094 | [Car Pooling](https://leetcode.com/problems/car-pooling/)    | [拼车](https://leetcode-cn.com/problems/car-pooling/)        |
 | 01138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [字母板上的路径](https://leetcode-cn.com/problems/alphabet-board-path/) |
 
