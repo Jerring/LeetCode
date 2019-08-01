@@ -329,6 +329,7 @@
 | 00215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) |
 | 00451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/) |
 | 01051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [高度检查器](https://leetcode-cn.com/problems/height-checker/) |
+| 01054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [距离相等的条形码](https://leetcode-cn.com/problems/distant-barcodes/) |
 | 01122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) |
 
 ## 贪心
