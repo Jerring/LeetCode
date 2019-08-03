@@ -82,6 +82,7 @@
 | 01019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list/) |
 | 01021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [删除最外层的括号](https://leetcode-cn.com/problems/remove-outermost-parentheses/) |
 | 01047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) |
+| 01081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters/) |
 
 ## 滑动窗口
 
