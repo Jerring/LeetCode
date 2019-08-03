@@ -3,20 +3,17 @@ package com.github.jerring.leetcode;
 public class LeetCode_00203 {
 
     public ListNode removeElements(ListNode head, int val) {
-        // 为了方便链表头结点被删除的操作，可以新建一个头结点
-        ListNode newhead = new ListNode(0);
-        newhead.next = head;
-        ListNode cur = head;
-        ListNode pre = newhead;
-        while (cur != null) {
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode pre = dummy;
+        for (ListNode cur = head; cur != null; cur = cur.next) {
             if (cur.val == val) {
                 pre.next = cur.next;
             } else {
                 pre = cur;
             }
-            cur = cur.next;
         }
-        return newhead.next;
+        return dummy.next;
     }
 
 //    public ListNode removeElements(ListNode head, int val) {
