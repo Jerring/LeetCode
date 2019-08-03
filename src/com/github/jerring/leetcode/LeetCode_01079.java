@@ -24,20 +24,30 @@ public class LeetCode_01079 {
     }
 
 //    public int numTilePossibilities(String tiles) {
-//        Set<String> set = new HashSet<>();
-//        dfs(tiles.toCharArray(), 0, set);
-//        return set.size();
+//        return dfs(tiles.toCharArray(), 0);
 //    }
 //
-//    private void dfs(char[] cs, int s, Set<String> set) {
-//        if (s >= 1) {
-//            set.add(String.valueOf(cs, 0, s));
-//        }
+//    private int dfs(char[] cs, int s) {
+//        int res = 0;
 //        for (int i = s; i < cs.length; ++i) {
+//            if (isDuplicate(cs, s, i)) {
+//                continue;
+//            }
 //            swap(cs, s, i);
-//            dfs(cs, s + 1, set);
+//            ++res;
+//            res += dfs(cs, s + 1);
 //            swap(cs, s, i);
 //        }
+//        return res;
+//    }
+//
+//    private boolean isDuplicate(char[] cs, int s, int e) {
+//        for (int i = s; i < e; ++i) {
+//            if (cs[i] == cs[e]) {
+//                return true;
+//            }
+//        }
+//        return false;
 //    }
 //
 //    private void swap(char[] cs, int i, int j) {
