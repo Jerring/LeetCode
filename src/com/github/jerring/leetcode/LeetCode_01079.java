@@ -14,8 +14,8 @@ public class LeetCode_01079 {
         int res = 0;
         for (int i = 0; i < cnt.length; ++i) {
             if (cnt[i] > 0) {
-                --cnt[i];
                 ++res;
+                --cnt[i];
                 res += dfs(cnt);
                 ++cnt[i];
             }
@@ -33,8 +33,8 @@ public class LeetCode_01079 {
 //            if (isDuplicate(cs, s, i)) {
 //                continue;
 //            }
-//            swap(cs, s, i);
 //            ++res;
+//            swap(cs, s, i);
 //            res += dfs(cs, s + 1);
 //            swap(cs, s, i);
 //        }
