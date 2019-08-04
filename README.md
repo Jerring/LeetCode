@@ -430,6 +430,7 @@
 | 00046 | [Permutations](https://leetcode.com/problems/permutations/)  | [全排列](https://leetcode-cn.com/problems/permutations/)     |
 | 00047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) |
 | 00051 | [N-Queens](https://leetcode.com/problems/n-queens/)          | [N皇后](https://leetcode-cn.com/problems/n-queens/)          |
+| 00052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)    | [N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)    |
 | 00060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/) |
 | 00077 | [Combinations](https://leetcode.com/problems/combinations/)  | [组合](https://leetcode-cn.com/problems/combinations/)       |
 | 00078 | [Subsets](https://leetcode.com/problems/subsets/)            | [子集](https://leetcode-cn.com/problems/subsets/)            |
