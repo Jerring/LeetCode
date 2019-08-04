@@ -73,6 +73,7 @@
 | 00227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) |
 | 00232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |
 | 00316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/) |
+| 00341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) |
 | 00456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)    | [132模式](https://leetcode-cn.com/problems/132-pattern/)     |
 | 00496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) |
 | 00503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [下一更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) |
