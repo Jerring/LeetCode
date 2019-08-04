@@ -21,11 +21,10 @@ public class LeetCode_00113 {
             if (sum == 0) {
                 res.add(new ArrayList<>(list));
             }
-            list.remove(list.size() - 1);
-            return;
+        } else {
+            dfs(root.left, sum, res, list);
+            dfs(root.right, sum, res, list);
         }
-        dfs(root.left, sum, res, list);
-        dfs(root.right, sum, res, list);
         list.remove(list.size() - 1);
     }
 }
