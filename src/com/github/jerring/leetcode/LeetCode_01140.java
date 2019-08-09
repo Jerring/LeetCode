@@ -16,10 +16,12 @@ public class LeetCode_01140 {
         if (s >= piles.length) {
             return 0;
         }
+        // 两个参数化为一个参数作为 key
         int key = s << 8 | M;
         if (map.containsKey(key)) {
             return map.get(key);
         }
+        // 直接取完
         if (s + 2 * M >= piles.length) {
             int res = 0;
             for (int i = s; i < piles.length; ++i) {
