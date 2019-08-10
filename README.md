@@ -246,6 +246,7 @@
 | 01078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram/) |
 | 01108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address/) |
 | 01111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) |
+| 01147 | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | [段式回文](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition/) |
 
 ## 二叉树
 
