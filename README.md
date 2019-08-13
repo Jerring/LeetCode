@@ -368,6 +368,7 @@
 
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) |
 | 00053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) |
 | 00062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | [不同路径](https://leetcode-cn.com/problems/unique-paths/)   |
 | 00063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) |
