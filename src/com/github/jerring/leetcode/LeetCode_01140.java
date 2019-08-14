@@ -27,6 +27,7 @@ public class LeetCode_01140 {
             for (int i = s; i < piles.length; ++i) {
                 res += piles[i];
             }
+            map.put(key, res);
             return res;
         }
         int best = Integer.MIN_VALUE;
