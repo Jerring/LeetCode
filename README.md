@@ -518,6 +518,7 @@
 | 01073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | [负二进制数相加](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/) |
 | 01093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [大样本统计](https://leetcode-cn.com/problems/statistics-from-a-large-sample/) |
 | 01103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/) |
+| 01154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [一年中的第几天](https://leetcode-cn.com/problems/ordinal-number-of-date/) |
 
 ## 脑筋急转弯
 
