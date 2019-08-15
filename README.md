@@ -417,6 +417,7 @@
 | 01137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/) |
 | 01139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [最大的以 1 为边界的正方形](https://leetcode-cn.com/problems/largest-1-bordered-square/) |
 | 01140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/) |
+| 01155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [掷骰子的N种方法](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum/) |
 
 ## 分治
 
