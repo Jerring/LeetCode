@@ -100,6 +100,7 @@
 | 00567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) |
 | 01004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) |
 | 01052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) |
+| 01156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-maximum-repeated-substring/) |
 
 ## 堆
 
