@@ -512,6 +512,7 @@
 | 00453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) |
 | 00458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/)        | [可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/)    |
 | 00462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [最少移动次数使数组元素相等 II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/) |
+| 00504 | [Base 7](https://leetcode.com/problems/base-7/)              | [七进制数](https://leetcode-cn.com/problems/base-7/)         |
 | 00650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/) |
 | 00829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [连续整数求和](https://leetcode-cn.com/problems/consecutive-numbers-sum/) |
 | 00883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) |
