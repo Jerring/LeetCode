@@ -516,6 +516,7 @@
 | 00829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [连续整数求和](https://leetcode-cn.com/problems/consecutive-numbers-sum/) |
 | 00883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes/) |
 | 00891 | [Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/) | [子序列宽度之和](https://leetcode-cn.com/problems/sum-of-subsequence-widths/) |
+| 00892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) | [三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) |
 | 01017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [负二进制转换](https://leetcode-cn.com/problems/convert-to-base-2/) |
 | 01073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | [负二进制数相加](https://leetcode-cn.com/problems/adding-two-negabinary-numbers/) |
 | 01093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [大样本统计](https://leetcode-cn.com/problems/statistics-from-a-large-sample/) |
