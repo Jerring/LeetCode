@@ -12,14 +12,19 @@ public class LeetCode_00304 {
             int m = matrix.length;
             int n = matrix[0].length;
             sums = new int[m + 1][n + 1];
+//            for (int i = 1; i <= m; ++i) {
+//                for (int j = 1; j <= n; ++j) {
+//                    sums[i][j] = sums[i][j - 1] + matrix[i - 1][j - 1];
+//                }
+//            }
+//            for (int j = 1; j <= n; ++j) {
+//                for (int i = 1; i <= m; ++i) {
+//                    sums[i][j] += sums[i - 1][j];
+//                }
+//            }
             for (int i = 1; i <= m; ++i) {
                 for (int j = 1; j <= n; ++j) {
-                    sums[i][j] = sums[i][j - 1] + matrix[i - 1][j - 1];
-                }
-            }
-            for (int j = 1; j <= n; ++j) {
-                for (int i = 1; i <= m; ++i) {
-                    sums[i][j] += sums[i - 1][j];
+                    sums[i][j] = sums[i][j - 1] + sums[i - 1][j] - sums[i - 1][j - 1] + matrix[i - 1][j - 1];
                 }
             }
         }
