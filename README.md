@@ -379,6 +379,7 @@
 | 00063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/) |
 | 00064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
 | 00070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  |
+| 00072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [编辑距离](https://leetcode-cn.com/problems/edit-distance/)  |
 | 00091 | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [解码方法](https://leetcode-cn.com/problems/decode-ways/)    |
 | 00095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) |
 | 00096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) |
