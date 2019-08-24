@@ -17,6 +17,7 @@
 | 00278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/) |
 | 00367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/) |
 | 00374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) |
+| 00410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/) |
 | 00441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [排列硬币](https://leetcode-cn.com/problems/arranging-coins/) |
 | 00475 | [Heaters](https://leetcode.com/problems/heaters/)            | [供暖器](https://leetcode-cn.com/problems/heaters/)          |
 | 00483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [最小好进制](https://leetcode-cn.com/problems/smallest-good-base/) |
