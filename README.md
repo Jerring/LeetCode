@@ -475,9 +475,10 @@
 
 ## 并查集
 
-| #     | Link                                                         | 链接                                                       |
-| ----- | ------------------------------------------------------------ | ---------------------------------------------------------- |
-| 00547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [朋友圈](https://leetcode-cn.com/problems/friend-circles/) |
+| #     | Link                                                         | 链接                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00547 | [Friend Circles](https://leetcode.com/problems/friend-circles/) | [朋友圈](https://leetcode-cn.com/problems/friend-circles/)   |
+| 00684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/) |
 
 ## 位运算
 
