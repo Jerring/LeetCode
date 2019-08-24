@@ -25,6 +25,7 @@
 | 00704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [二分查找](https://leetcode-cn.com/problems/binary-search/)  |
 | 00744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) |
 | 00852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [山脉数组的封顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/) |
+| 00875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas/) |
 | 00878 | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [第 N 个神奇数字](https://leetcode-cn.com/problems/nth-magical-number/) |
 | 01095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/) |
 
