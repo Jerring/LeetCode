@@ -500,6 +500,7 @@
 | 00393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [UTF-8编码验证](https://leetcode-cn.com/problems/utf-8-validation/) |
 | 00397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [整数替换](https://leetcode-cn.com/problems/integer-replacement/) |
 | 00401 | [Binary Watch](https://leetcode.com/problems/binary-watch/)  | [二进制手表](https://leetcode-cn.com/problems/binary-watch/) |
+| 00405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) |
 | 00461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) |
 | 00476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [数字的补数](https://leetcode-cn.com/problems/number-complement/) |
 | 00477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/) |
