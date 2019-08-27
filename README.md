@@ -419,6 +419,7 @@
 | 00518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) |
 | 00526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/) |
 | 00576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/) |
+| 00664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/) |
 | 00673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) |
 | 00714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |
 | 00746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) |
