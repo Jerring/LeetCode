@@ -108,6 +108,7 @@
 
 | #     | Link                                                         | 链接                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 00295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) |
 | 00347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |
 | 00692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/) |
 | 00703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) |
